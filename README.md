@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `11 / 294` (`3.7%`)
+- **Vidéos traitées** : `12 / 294` (`4.1%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -26,6 +26,7 @@
 | 2021-05-22 | [POINTS PIVOTS SUPPORT ET RESISTANCE A LA BOURSE C'EST QUOI ET COMMENT LES UTILISER](2021-05-22_PmvOFeNjhl8_POINTS PIVOTS SUPPORT ET RESISTANCE A LA BOURSE C'EST QUOI ET COMMENT LES UTILISER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 15m 42s | [Voir la Vidéo](https://www.youtube.com/watch?v=PmvOFeNjhl8) | `PmvOFeNjhl8` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-05-15 | [COMMENT DÉBUTER DANS LES CRYPTO MONNAIES AVEC UN PETIT CAPITAL ET QUEL COURTIER UTILISER?](2021-05-15_0XIuSYZQoC0_COMMENT DÉBUTER DANS LES CRYPTO MONNAIES AVEC UN PETIT CAPITAL ET QUEL COURTIER UTILISER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 46s | [Voir la Vidéo](https://www.youtube.com/watch?v=0XIuSYZQoC0) | `0XIuSYZQoC0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-05-08 | [ON BALANCE VOLUME C EST QUOI L'INDICATEUR OSCILLATEUR OBV A LA BOURSE STOCK MARKET](2021-05-08_EgUZ6zEar0A_ON BALANCE VOLUME C EST QUOI L'INDICATEUR OSCILLATEUR OBV A LA BOURSE STOCK MARKET_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 10m 46s | [Voir la Vidéo](https://www.youtube.com/watch?v=EgUZ6zEar0A) | `EgUZ6zEar0A` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2021-04-10 | [COMMENT EVITER LE SLOW BLEEDING / SE SAIGNER DOUCEMENT  A LA BOURSE ET DANS LES OTC](2021-04-10_HzCvIY1Fpoo_COMMENT EVITER LE SLOW BLEEDING SE SAIGNER DOUCEMENT A LA BOURSE ET DANS LES OTC_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 22m 17s | [Voir la Vidéo](https://www.youtube.com/watch?v=HzCvIY1Fpoo) | `HzCvIY1Fpoo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
