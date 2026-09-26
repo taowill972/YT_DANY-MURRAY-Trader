@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `6 / 294` (`2.0%`)
+- **Vidéos traitées** : `7 / 294` (`2.4%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -21,6 +21,7 @@
 | 2022-02-26 | [COMMENT CHOISIR SON COURTIER / BROKER DE CRYPTOMONNAIE POUR VOTRE TRADING!](2022-02-26_skW7rCH75iw_COMMENT CHOISIR SON COURTIER BROKER DE CRYPTOMONNAIE POUR VOTRE TRADING!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 15m 09s | [Voir la Vidéo](https://www.youtube.com/watch?v=skW7rCH75iw) | `skW7rCH75iw` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2022-02-19 | [QUE CE PASSE T'IL AVEC DANYMURRAY TRADER? EST-CE LA FIN OU UN NOUVEAU DÉPART](2022-02-19_a4q48zKKK-8_QUE CE PASSE T'IL AVEC DANYMURRAY TRADER EST-CE LA FIN OU UN NOUVEAU DÉPART_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 26m 01s | [Voir la Vidéo](https://www.youtube.com/watch?v=a4q48zKKK-8) | `a4q48zKKK-8` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-10-16 | [C'EST QUOI LE FOMO À LA BOURSE ET QUOI FAIRE / COMMENT PENSER POUR NE PAS Y SUCCOMBER?](2021-10-16_Q7uyKq6RImM_C'EST QUOI LE FOMO À LA BOURSE ET QUOI FAIRE COMMENT PENSER POUR NE PAS Y SUCCOMBER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 17m 48s | [Voir la Vidéo](https://www.youtube.com/watch?v=Q7uyKq6RImM) | `Q7uyKq6RImM` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2021-08-14 | [VOYEZ L'ÉVOLUTION DES ETUDIANTS QUI SONT DEVENUS TRADER GAGNANT! ÊTES VOUS LE PROCHAIN?](2021-08-14_8vS2Kuxkmck_VOYEZ L'ÉVOLUTION DES ETUDIANTS QUI SONT DEVENUS TRADER GAGNANT! ÊTES VOUS LE PROCHAIN_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 23m 48s | [Voir la Vidéo](https://www.youtube.com/watch?v=8vS2Kuxkmck) | `8vS2Kuxkmck` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
