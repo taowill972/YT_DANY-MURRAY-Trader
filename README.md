@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `20 / 294` (`6.8%`)
+- **Vidéos traitées** : `21 / 294` (`7.1%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -35,6 +35,7 @@
 | 2020-11-07 | [2 MOIS DE SALAIRES EN 15 MINUTES ET LE SECTEUR CANNABIS ET CRYPTO MONNAIE EN FEU BTC ACB ET+](2020-11-07_4pAyiJM6n2Q_2 MOIS DE SALAIRES EN 15 MINUTES ET LE SECTEUR CANNABIS ET CRYPTO MONNAIE EN FEU BTC ACB ET+_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 31m 46s | [Voir la Vidéo](https://www.youtube.com/watch?v=4pAyiJM6n2Q) | `4pAyiJM6n2Q` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-10-31 | [EXPLICATION DE 1 TRADE LIVE SUR TTNP ET ALERTE A LA BOURSE ATTENTION A VOS FINANCES](2020-10-31_2gdG0rU4hZU_EXPLICATION DE 1 TRADE LIVE SUR TTNP ET ALERTE A LA BOURSE ATTENTION A VOS FINANCES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 48s | [Voir la Vidéo](https://www.youtube.com/watch?v=2gdG0rU4hZU) | `2gdG0rU4hZU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-10-17 | [ENTREVUE AVEC SAMOURAI IL DEVIENT TRADER DE PENNY STOCKS QUITTE SON EMPLOIE ET SE PAYE UNE M4 PART.2](2020-10-17_xrx8wPyt8F0_ENTREVUE AVEC SAMOURAI IL DEVIENT TRADER DE PENNY STOCKS QUITTE SON EMPLOIE ET SE PAYE UNE M4 PART.2_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 35m 00s | [Voir la Vidéo](https://www.youtube.com/watch?v=xrx8wPyt8F0) | `xrx8wPyt8F0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-10-10 | [ENTREVUE AVEC SAMOURAI IL APPREND A SCALPER LES PENNY STOCK SE PAYE UNE BMW M4 ET QUITTE SA JOB!](2020-10-10_jLk4jAXFcWM_ENTREVUE AVEC SAMOURAI IL APPREND A SCALPER LES PENNY STOCK SE PAYE UNE BMW M4 ET QUITTE SA JOB!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 08s | [Voir la Vidéo](https://www.youtube.com/watch?v=jLk4jAXFcWM) | `jLk4jAXFcWM` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
