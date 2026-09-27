@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `16 / 294` (`5.4%`)
+- **Vidéos traitées** : `17 / 294` (`5.8%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -31,6 +31,7 @@
 | 2021-01-23 | [BOURSE : TOP 10 DES QUESTIONS LES PLUS POSÉES PAR LES TRADERS AVANCÉS A LA BOURSE. REPONSE ICI !!!](2021-01-23_zNBjuuuOZ-A_BOURSE TOP 10 DES QUESTIONS LES PLUS POSÉES PAR LES TRADERS AVANCÉS A LA BOURSE. REPONSE ICI !!!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 49m 28s | [Voir la Vidéo](https://www.youtube.com/watch?v=zNBjuuuOZ-A) | `zNBjuuuOZ-A` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-01-16 | [10 QUESTIONS DE DEBUTANTS EN TRADING POUR DEVENIR DAY TRADER](2021-01-16_jUvUancF8LE_10 QUESTIONS DE DEBUTANTS EN TRADING POUR DEVENIR DAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 54s | [Voir la Vidéo](https://www.youtube.com/watch?v=jUvUancF8LE) | `jUvUancF8LE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-01-09 | [DANY TRADER FAIT 74 000$ EN DAY TRADING SCALPING DE PENNY STOCKS LIVE SUR LE NET](2021-01-09_w8Nv2tYkT8M_DANY TRADER FAIT 74 000$ EN DAY TRADING SCALPING DE PENNY STOCKS LIVE SUR LE NET_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 27m 47s | [Voir la Vidéo](https://www.youtube.com/watch?v=w8Nv2tYkT8M) | `w8Nv2tYkT8M` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-11-21 | [ANALYSE DE MON SCALPING INTENSE DE +-75 TRADES 2 JOURS AVEC 9 000$ DE PROFIT ET PLUS EN OVERNIGHT!](2020-11-21_NQShdst25aE_ANALYSE DE MON SCALPING INTENSE DE +-75 TRADES 2 JOURS AVEC 9 000$ DE PROFIT ET PLUS EN OVERNIGHT!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 24m 29s | [Voir la Vidéo](https://www.youtube.com/watch?v=NQShdst25aE) | `NQShdst25aE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
