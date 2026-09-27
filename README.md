@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `21 / 294` (`7.1%`)
+- **Vidéos traitées** : `22 / 294` (`7.5%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -36,6 +36,7 @@
 | 2020-10-31 | [EXPLICATION DE 1 TRADE LIVE SUR TTNP ET ALERTE A LA BOURSE ATTENTION A VOS FINANCES](2020-10-31_2gdG0rU4hZU_EXPLICATION DE 1 TRADE LIVE SUR TTNP ET ALERTE A LA BOURSE ATTENTION A VOS FINANCES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 48s | [Voir la Vidéo](https://www.youtube.com/watch?v=2gdG0rU4hZU) | `2gdG0rU4hZU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-10-17 | [ENTREVUE AVEC SAMOURAI IL DEVIENT TRADER DE PENNY STOCKS QUITTE SON EMPLOIE ET SE PAYE UNE M4 PART.2](2020-10-17_xrx8wPyt8F0_ENTREVUE AVEC SAMOURAI IL DEVIENT TRADER DE PENNY STOCKS QUITTE SON EMPLOIE ET SE PAYE UNE M4 PART.2_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 35m 00s | [Voir la Vidéo](https://www.youtube.com/watch?v=xrx8wPyt8F0) | `xrx8wPyt8F0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-10-10 | [ENTREVUE AVEC SAMOURAI IL APPREND A SCALPER LES PENNY STOCK SE PAYE UNE BMW M4 ET QUITTE SA JOB!](2020-10-10_jLk4jAXFcWM_ENTREVUE AVEC SAMOURAI IL APPREND A SCALPER LES PENNY STOCK SE PAYE UNE BMW M4 ET QUITTE SA JOB!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 08s | [Voir la Vidéo](https://www.youtube.com/watch?v=jLk4jAXFcWM) | `jLk4jAXFcWM` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-09-26 | [ANALYSE DE MON SCALPING D'AUJOURDHUI (50 TRADES) AVEC UN PETIT CAPITAL 25 000$ +30% DU COMPTE](2020-09-26_6U-IJ2vuMwI_ANALYSE DE MON SCALPING D'AUJOURDHUI (50 TRADES) AVEC UN PETIT CAPITAL 25 000$ +30% DU COMPTE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 31m 15s | [Voir la Vidéo](https://www.youtube.com/watch?v=6U-IJ2vuMwI) | `6U-IJ2vuMwI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
