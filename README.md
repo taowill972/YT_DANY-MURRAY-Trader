@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `14 / 294` (`4.8%`)
+- **Vidéos traitées** : `15 / 294` (`5.1%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -29,6 +29,7 @@
 | 2021-04-10 | [COMMENT EVITER LE SLOW BLEEDING / SE SAIGNER DOUCEMENT  A LA BOURSE ET DANS LES OTC](2021-04-10_HzCvIY1Fpoo_COMMENT EVITER LE SLOW BLEEDING SE SAIGNER DOUCEMENT A LA BOURSE ET DANS LES OTC_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 22m 17s | [Voir la Vidéo](https://www.youtube.com/watch?v=HzCvIY1Fpoo) | `HzCvIY1Fpoo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-02-13 | [RÉPONSE A LA QUESTION LA PLUS POSÉE DE TOUS? COMBIEN J'AI GAGNER DEPUIS 6 SEMAINES EN TRADING?](2021-02-13_TjDAnu2KyrE_RÉPONSE A LA QUESTION LA PLUS POSÉE DE TOUS COMBIEN J'AI GAGNER DEPUIS 6 SEMAINES EN TRADING_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 42s | [Voir la Vidéo](https://www.youtube.com/watch?v=TjDAnu2KyrE) | `TjDAnu2KyrE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-01-23 | [BOURSE : TOP 10 DES QUESTIONS LES PLUS POSÉES PAR LES TRADERS AVANCÉS A LA BOURSE. REPONSE ICI !!!](2021-01-23_zNBjuuuOZ-A_BOURSE TOP 10 DES QUESTIONS LES PLUS POSÉES PAR LES TRADERS AVANCÉS A LA BOURSE. REPONSE ICI !!!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 49m 28s | [Voir la Vidéo](https://www.youtube.com/watch?v=zNBjuuuOZ-A) | `zNBjuuuOZ-A` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2021-01-16 | [10 QUESTIONS DE DEBUTANTS EN TRADING POUR DEVENIR DAY TRADER](2021-01-16_jUvUancF8LE_10 QUESTIONS DE DEBUTANTS EN TRADING POUR DEVENIR DAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 54s | [Voir la Vidéo](https://www.youtube.com/watch?v=jUvUancF8LE) | `jUvUancF8LE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
