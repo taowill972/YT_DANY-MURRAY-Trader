@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `23 / 294` (`7.8%`)
+- **Vidéos traitées** : `24 / 294` (`8.2%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -38,6 +38,7 @@
 | 2020-10-10 | [ENTREVUE AVEC SAMOURAI IL APPREND A SCALPER LES PENNY STOCK SE PAYE UNE BMW M4 ET QUITTE SA JOB!](2020-10-10_jLk4jAXFcWM_ENTREVUE AVEC SAMOURAI IL APPREND A SCALPER LES PENNY STOCK SE PAYE UNE BMW M4 ET QUITTE SA JOB!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 08s | [Voir la Vidéo](https://www.youtube.com/watch?v=jLk4jAXFcWM) | `jLk4jAXFcWM` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-09-26 | [ANALYSE DE MON SCALPING D'AUJOURDHUI (50 TRADES) AVEC UN PETIT CAPITAL 25 000$ +30% DU COMPTE](2020-09-26_6U-IJ2vuMwI_ANALYSE DE MON SCALPING D'AUJOURDHUI (50 TRADES) AVEC UN PETIT CAPITAL 25 000$ +30% DU COMPTE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 31m 15s | [Voir la Vidéo](https://www.youtube.com/watch?v=6U-IJ2vuMwI) | `6U-IJ2vuMwI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-09-05 | [1 MILLIONS EN 69 JOURS ET JE ME FAIT BANNIR DE CHEZ MON BROKER DESJARDINS / DISNAT DIRECT](2020-09-05_nhTR0mD8Upc_1 MILLIONS EN 69 JOURS ET JE ME FAIT BANNIR DE CHEZ MON BROKER DESJARDINS DISNAT DIRECT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 35m 31s | [Voir la Vidéo](https://www.youtube.com/watch?v=nhTR0mD8Upc) | `nhTR0mD8Upc` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-08-29 | [ANALYSE DE MON TRADING  COMBIEN J'AI GAGNÉ DANS LES 8 DERNIERS MOIS?](2020-08-29_qSUAWe-jUrk_ANALYSE DE MON TRADING COMBIEN J'AI GAGNÉ DANS LES 8 DERNIERS MOIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 30m 30s | [Voir la Vidéo](https://www.youtube.com/watch?v=qSUAWe-jUrk) | `qSUAWe-jUrk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
