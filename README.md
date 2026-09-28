@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `32 / 294` (`10.9%`)
+- **Vidéos traitées** : `33 / 294` (`11.2%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -47,6 +47,7 @@
 | 2020-07-11 | [SCALPING EN VACANCE ''JUSTE 1 TRADE'' LES AVANTAGE D'ÊTRE SCALPER PRO](2020-07-11_3gADIIHLYI8_SCALPING EN VACANCE ''JUSTE 1 TRADE'' LES AVANTAGE D'ÊTRE SCALPER PRO_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 27m 09s | [Voir la Vidéo](https://www.youtube.com/watch?v=3gADIIHLYI8) | `3gADIIHLYI8` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-07-04 | [COMMENT TRADER A LA BOURSE AVEC UN PETIT CAPITAL DE DÉPART](2020-07-04_mtdFFEHVjh8_COMMENT TRADER A LA BOURSE AVEC UN PETIT CAPITAL DE DÉPART_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 43m 22s | [Voir la Vidéo](https://www.youtube.com/watch?v=mtdFFEHVjh8) | `mtdFFEHVjh8` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-06-27 | [UNE JOURNEE D'OVERTRADING SCALPING AVEC DANY MURRAY TRADER, 107 TRADES EXPLIQUÉS ET 7200$ DE PROFIT](2020-06-27_SFLVe4abpEQ_UNE JOURNEE D'OVERTRADING SCALPING AVEC DANY MURRAY TRADER, 107 TRADES EXPLIQUÉS ET 7200$ DE PROFIT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 31m 40s | [Voir la Vidéo](https://www.youtube.com/watch?v=SFLVe4abpEQ) | `SFLVe4abpEQ` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-06-20 | [COMMENT CHOISIR LE BON STOCK À L'OUVERTURE DES MARCHÉS! FORMATION GRATUITE POUR DAY TRADER](2020-06-20_JWeTCHIEEtU_COMMENT CHOISIR LE BON STOCK À L'OUVERTURE DES MARCHÉS! FORMATION GRATUITE POUR DAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 29m 50s | [Voir la Vidéo](https://www.youtube.com/watch?v=JWeTCHIEEtU) | `JWeTCHIEEtU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
