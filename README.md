@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `35 / 294` (`11.9%`)
+- **Vidéos traitées** : `36 / 294` (`12.2%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -50,6 +50,7 @@
 | 2020-06-20 | [COMMENT CHOISIR LE BON STOCK À L'OUVERTURE DES MARCHÉS! FORMATION GRATUITE POUR DAY TRADER](2020-06-20_JWeTCHIEEtU_COMMENT CHOISIR LE BON STOCK À L'OUVERTURE DES MARCHÉS! FORMATION GRATUITE POUR DAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 29m 50s | [Voir la Vidéo](https://www.youtube.com/watch?v=JWeTCHIEEtU) | `JWeTCHIEEtU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-06-13 | [COMBIEN UN TRADER PEUT-IL GAGNER À LA BOURSE? COMBIEN GAGNE UN DAY TRADER A TRADER LES STOCKS](2020-06-13_Cp_YQpFDL-E_COMBIEN UN TRADER PEUT-IL GAGNER À LA BOURSE COMBIEN GAGNE UN DAY TRADER A TRADER LES STOCKS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 42m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=Cp_YQpFDL-E) | `Cp_YQpFDL-E` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-06-06 | [MÉTHODE SWING TRADING, COMMENT J'AI FAIT 81 500$ AVEC 7 SWING TRADE CE MOIS-CI? HEXO XSPA ZOM TOPS](2020-06-06_0x9ccv2uvg4_MÉTHODE SWING TRADING, COMMENT J'AI FAIT 81 500$ AVEC 7 SWING TRADE CE MOIS-CI HEXO XSPA ZOM TOPS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 44m 53s | [Voir la Vidéo](https://www.youtube.com/watch?v=0x9ccv2uvg4) | `0x9ccv2uvg4` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-05-30 | [NORBERT GAMBIT ÉLIMINEZ LES FRAIS DE CONVERSION DE DEVISE USD/CAD CAD/USD CHEZ QUESTRADE RBC TD +++](2020-05-30_Qh-W2UMif7A_NORBERT GAMBIT ÉLIMINEZ LES FRAIS DE CONVERSION DE DEVISE USDCAD CADUSD CHEZ QUESTRADE RBC TD +++_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 15m 45s | [Voir la Vidéo](https://www.youtube.com/watch?v=Qh-W2UMif7A) | `Qh-W2UMif7A` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
