@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `26 / 294` (`8.8%`)
+- **Vidéos traitées** : `27 / 294` (`9.2%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -41,6 +41,7 @@
 | 2020-08-29 | [ANALYSE DE MON TRADING  COMBIEN J'AI GAGNÉ DANS LES 8 DERNIERS MOIS?](2020-08-29_qSUAWe-jUrk_ANALYSE DE MON TRADING COMBIEN J'AI GAGNÉ DANS LES 8 DERNIERS MOIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 30m 30s | [Voir la Vidéo](https://www.youtube.com/watch?v=qSUAWe-jUrk) | `qSUAWe-jUrk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-08-22 | [(3) PUMP AND DUMP HISTORIQUE DE KODAK KODK +3000% DE GAIN EN 2 JOURS ET -85% DE PERTE DANS LE DUMP](2020-08-22_hDBWovmpH24_(3) PUMP AND DUMP HISTORIQUE DE KODAK KODK +3000% DE GAIN EN 2 JOURS ET -85% DE PERTE DANS LE DUMP_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 35m 24s | [Voir la Vidéo](https://www.youtube.com/watch?v=hDBWovmpH24) | `hDBWovmpH24` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-08-15 | [FORMATION COMMENT TRADER LES OTC ET PINK SHEET A LA BOURSE US POUR DÉBUTANT PARTIE #1](2020-08-15_RTJQjRFC3ik_FORMATION COMMENT TRADER LES OTC ET PINK SHEET A LA BOURSE US POUR DÉBUTANT PARTIE #1_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 34m 01s | [Voir la Vidéo](https://www.youtube.com/watch?v=RTJQjRFC3ik) | `RTJQjRFC3ik` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-08-08 | [SCREENER DU MARCHÉ DES STOCKS US / CAD ET OTC POUR TRADER AVEC  PETIT OU GROS CAPITAL DE DÉPART...](2020-08-08_9FgV1cdthno_SCREENER DU MARCHÉ DES STOCKS US CAD ET OTC POUR TRADER AVEC PETIT OU GROS CAPITAL DE DÉPART..._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 30m 13s | [Voir la Vidéo](https://www.youtube.com/watch?v=9FgV1cdthno) | `9FgV1cdthno` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
