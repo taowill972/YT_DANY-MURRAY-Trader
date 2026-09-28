@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `28 / 294` (`9.5%`)
+- **Vidéos traitées** : `29 / 294` (`9.9%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -43,6 +43,7 @@
 | 2020-08-15 | [FORMATION COMMENT TRADER LES OTC ET PINK SHEET A LA BOURSE US POUR DÉBUTANT PARTIE #1](2020-08-15_RTJQjRFC3ik_FORMATION COMMENT TRADER LES OTC ET PINK SHEET A LA BOURSE US POUR DÉBUTANT PARTIE #1_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 34m 01s | [Voir la Vidéo](https://www.youtube.com/watch?v=RTJQjRFC3ik) | `RTJQjRFC3ik` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-08-08 | [SCREENER DU MARCHÉ DES STOCKS US / CAD ET OTC POUR TRADER AVEC  PETIT OU GROS CAPITAL DE DÉPART...](2020-08-08_9FgV1cdthno_SCREENER DU MARCHÉ DES STOCKS US CAD ET OTC POUR TRADER AVEC PETIT OU GROS CAPITAL DE DÉPART..._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 30m 13s | [Voir la Vidéo](https://www.youtube.com/watch?v=9FgV1cdthno) | `9FgV1cdthno` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-07-25 | [LECONS DE 6 TRADES LIVE AVEC LES PENNY STOCKS EN SCALPING ET TRADING RÉGULIER POUR 3500$ DE PROFIT](2020-07-25_r95wabD8T60_LECONS DE 6 TRADES LIVE AVEC LES PENNY STOCKS EN SCALPING ET TRADING RÉGULIER POUR 3500$ DE PROFIT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 39m 37s | [Voir la Vidéo](https://www.youtube.com/watch?v=r95wabD8T60) | `r95wabD8T60` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-07-18 | [MES STRATEGIES DE SCALPING EXPLIQUÉ AVEC MES TRADES DE CE MATIN POUR 1500$ DE PROFIT](2020-07-18_6V3XbqOL5uA_MES STRATEGIES DE SCALPING EXPLIQUÉ AVEC MES TRADES DE CE MATIN POUR 1500$ DE PROFIT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 28m 41s | [Voir la Vidéo](https://www.youtube.com/watch?v=6V3XbqOL5uA) | `6V3XbqOL5uA` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
