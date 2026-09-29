@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `43 / 294` (`14.6%`)
+- **Vidéos traitées** : `44 / 294` (`15.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -58,6 +58,7 @@
 | 2020-04-18 | [7 ERREURS DE TRADER DÉBUTANT À ÉVITER À TOUT PRIX EN TRADING / DAY TRADING / SCALPING](2020-04-18_bUWgkbNAnX0_7 ERREURS DE TRADER DÉBUTANT À ÉVITER À TOUT PRIX EN TRADING DAY TRADING SCALPING_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 37m 34s | [Voir la Vidéo](https://www.youtube.com/watch?v=bUWgkbNAnX0) | `bUWgkbNAnX0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-04-04 | [COMMENT SE REMETTRE MENTALEMENT SUR PIED APRES DES PERTES A LA BOURSE.](2020-04-04_3KnwPFagz8M_COMMENT SE REMETTRE MENTALEMENT SUR PIED APRES DES PERTES A LA BOURSE._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 30m 47s | [Voir la Vidéo](https://www.youtube.com/watch?v=3KnwPFagz8M) | `3KnwPFagz8M` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-03-21 | [LE KRACH BOURSIER 2020 OU S'EN VONT  NOS INVESTISSEMENTS A LA BOURSE?](2020-03-21__gUvu17-h_c_LE KRACH BOURSIER 2020 OU S'EN VONT NOS INVESTISSEMENTS A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 39m 57s | [Voir la Vidéo](https://www.youtube.com/watch?v=_gUvu17-h_c) | `_gUvu17-h_c` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-03-07 | [VISUALISEZ VOTRE FUTUR SALAIRE DE TRADER / SCALPER 46 000$ EN 9 JOURS ET 26 000$ EN 1 JOURNÉE](2020-03-07_5X8SkKYIUHU_VISUALISEZ VOTRE FUTUR SALAIRE DE TRADER SCALPER 46 000$ EN 9 JOURS ET 26 000$ EN 1 JOURNÉE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 31m 18s | [Voir la Vidéo](https://www.youtube.com/watch?v=5X8SkKYIUHU) | `5X8SkKYIUHU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
