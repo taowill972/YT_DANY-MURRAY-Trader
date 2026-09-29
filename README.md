@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `49 / 294` (`16.7%`)
+- **Vidéos traitées** : `50 / 294` (`17.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -64,6 +64,7 @@
 | 2020-02-08 | [FORMATION GRATUITE : LA STRATEGIE DE TRADING LES BOITES DE DARVAS / DARVAS BOX](2020-02-08_vwYhPvi0erE_FORMATION GRATUITE LA STRATEGIE DE TRADING LES BOITES DE DARVAS DARVAS BOX_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 14m 56s | [Voir la Vidéo](https://www.youtube.com/watch?v=vwYhPvi0erE) | `vwYhPvi0erE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-02-01 | [BERNARD MADOFF LA PLUS GRANDE FRAUDE DE L'HISTOIRE DE LA BOURSE AVEC LA PYRAMIDE DE PONZI](2020-02-01_nDC_KJKOa30_BERNARD MADOFF LA PLUS GRANDE FRAUDE DE L'HISTOIRE DE LA BOURSE AVEC LA PYRAMIDE DE PONZI_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 28m 09s | [Voir la Vidéo](https://www.youtube.com/watch?v=nDC_KJKOa30) | `nDC_KJKOa30` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-01-25 | [COMMENT FAIRE 25 000$ DE PROFIT 40% DE GAIN EN 1 SEMAINE EN  SWING TRADING ET 50 000$ DE CAPITAL](2020-01-25_Zxa8Ykk9OH8_COMMENT FAIRE 25 000$ DE PROFIT 40% DE GAIN EN 1 SEMAINE EN SWING TRADING ET 50 000$ DE CAPITAL_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 20m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=Zxa8Ykk9OH8) | `Zxa8Ykk9OH8` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-01-18 | [FAUT-IL UTILISER LES INDICATEURS POUR RÉUSSIR À LA BOURSE? LA REPONSE OFFICIEL ICI!](2020-01-18_TxoUtqpjfCI_FAUT-IL UTILISER LES INDICATEURS POUR RÉUSSIR À LA BOURSE LA REPONSE OFFICIEL ICI!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 22m 57s | [Voir la Vidéo](https://www.youtube.com/watch?v=TxoUtqpjfCI) | `TxoUtqpjfCI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
