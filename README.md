@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `38 / 294` (`12.9%`)
+- **Vidéos traitées** : `39 / 294` (`13.3%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -53,6 +53,7 @@
 | 2020-05-30 | [NORBERT GAMBIT ÉLIMINEZ LES FRAIS DE CONVERSION DE DEVISE USD/CAD CAD/USD CHEZ QUESTRADE RBC TD +++](2020-05-30_Qh-W2UMif7A_NORBERT GAMBIT ÉLIMINEZ LES FRAIS DE CONVERSION DE DEVISE USDCAD CADUSD CHEZ QUESTRADE RBC TD +++_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 15m 45s | [Voir la Vidéo](https://www.youtube.com/watch?v=Qh-W2UMif7A) | `Qh-W2UMif7A` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-05-16 | [LE NIVEAU 2 OU LEVEL 2 A LA BOURSE EST CE VRAIMENT UTILE POUR LES TRADERS ET INVESTISSEUR](2020-05-16_TCPt4W5Wh0U_LE NIVEAU 2 OU LEVEL 2 A LA BOURSE EST CE VRAIMENT UTILE POUR LES TRADERS ET INVESTISSEUR_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 20m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=TCPt4W5Wh0U) | `TCPt4W5Wh0U` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-05-09 | [SPLIT INVERSÉ / REVERSE SPLIT DE AURORA CANNABIS LE MECANISME DOUTEUX EXPOSÉ](2020-05-09_RKebsE646jE_SPLIT INVERSÉ REVERSE SPLIT DE AURORA CANNABIS LE MECANISME DOUTEUX EXPOSÉ_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 27m 38s | [Voir la Vidéo](https://www.youtube.com/watch?v=RKebsE646jE) | `RKebsE646jE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-05-02 | [LES POINTS D'ENTRÉE SUR LE SUPPORT OU LA RÉSISTANCE? POUR LE DAY TRADING ET  SCALPING D'ACTIONS](2020-05-02_C4uzEXahaP4_LES POINTS D'ENTRÉE SUR LE SUPPORT OU LA RÉSISTANCE POUR LE DAY TRADING ET SCALPING D'ACTIONS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 38m 59s | [Voir la Vidéo](https://www.youtube.com/watch?v=C4uzEXahaP4) | `C4uzEXahaP4` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
