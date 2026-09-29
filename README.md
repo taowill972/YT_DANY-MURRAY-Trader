@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `41 / 294` (`13.9%`)
+- **Vidéos traitées** : `42 / 294` (`14.3%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -56,6 +56,7 @@
 | 2020-05-02 | [LES POINTS D'ENTRÉE SUR LE SUPPORT OU LA RÉSISTANCE? POUR LE DAY TRADING ET  SCALPING D'ACTIONS](2020-05-02_C4uzEXahaP4_LES POINTS D'ENTRÉE SUR LE SUPPORT OU LA RÉSISTANCE POUR LE DAY TRADING ET SCALPING D'ACTIONS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 38m 59s | [Voir la Vidéo](https://www.youtube.com/watch?v=C4uzEXahaP4) | `C4uzEXahaP4` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-04-25 | [114 000$ DE GAIN EN SCALPING DANS LE KRACH DE LA BOURSE EN 30 JOURS DE TRADING](2020-04-25_oa_aR9l2WDk_114 000$ DE GAIN EN SCALPING DANS LE KRACH DE LA BOURSE EN 30 JOURS DE TRADING_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 35m 19s | [Voir la Vidéo](https://www.youtube.com/watch?v=oa_aR9l2WDk) | `oa_aR9l2WDk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-04-18 | [7 ERREURS DE TRADER DÉBUTANT À ÉVITER À TOUT PRIX EN TRADING / DAY TRADING / SCALPING](2020-04-18_bUWgkbNAnX0_7 ERREURS DE TRADER DÉBUTANT À ÉVITER À TOUT PRIX EN TRADING DAY TRADING SCALPING_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 37m 34s | [Voir la Vidéo](https://www.youtube.com/watch?v=bUWgkbNAnX0) | `bUWgkbNAnX0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-04-04 | [COMMENT SE REMETTRE MENTALEMENT SUR PIED APRES DES PERTES A LA BOURSE.](2020-04-04_3KnwPFagz8M_COMMENT SE REMETTRE MENTALEMENT SUR PIED APRES DES PERTES A LA BOURSE._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 30m 47s | [Voir la Vidéo](https://www.youtube.com/watch?v=3KnwPFagz8M) | `3KnwPFagz8M` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
