@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `52 / 294` (`17.7%`)
+- **Vidéos traitées** : `53 / 294` (`18.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -67,6 +67,7 @@
 | 2020-01-18 | [FAUT-IL UTILISER LES INDICATEURS POUR RÉUSSIR À LA BOURSE? LA REPONSE OFFICIEL ICI!](2020-01-18_TxoUtqpjfCI_FAUT-IL UTILISER LES INDICATEURS POUR RÉUSSIR À LA BOURSE LA REPONSE OFFICIEL ICI!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 22m 57s | [Voir la Vidéo](https://www.youtube.com/watch?v=TxoUtqpjfCI) | `TxoUtqpjfCI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-01-11 | [LES BANDES DE BOLLINGER À LA BOURSE : FORMATION GRATUITE, COMMENT CA FONCTIONNE COMMENT LES UTILISER](2020-01-11_FOKmskBDN0M_LES BANDES DE BOLLINGER À LA BOURSE FORMATION GRATUITE, COMMENT CA FONCTIONNE COMMENT LES UTILISER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 17m 00s | [Voir la Vidéo](https://www.youtube.com/watch?v=FOKmskBDN0M) | `FOKmskBDN0M` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-01-04 | [LE SECRET ULTIME D'UN TRADER PRO POUR DEVENIR TRADER PROFITABLE](2020-01-04_ylS93_Q1ohU_LE SECRET ULTIME D'UN TRADER PRO POUR DEVENIR TRADER PROFITABLE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 29m 17s | [Voir la Vidéo](https://www.youtube.com/watch?v=ylS93_Q1ohU) | `ylS93_Q1ohU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-12-30 | [COMMENT APPRENDRE LE TRADING ET GAGNER AVEC D'AUTRE TRADER FRANCOPHONE EN CETTE NOUVELLE ANNÉE!](2019-12-30_N_HHHm5WYSo_COMMENT APPRENDRE LE TRADING ET GAGNER AVEC D'AUTRE TRADER FRANCOPHONE EN CETTE NOUVELLE ANNÉE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 4m 05s | [Voir la Vidéo](https://www.youtube.com/watch?v=N_HHHm5WYSo) | `N_HHHm5WYSo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
