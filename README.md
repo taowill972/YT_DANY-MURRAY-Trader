@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `55 / 294` (`18.7%`)
+- **Vidéos traitées** : `56 / 294` (`19.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -70,6 +70,7 @@
 | 2019-12-30 | [COMMENT APPRENDRE LE TRADING ET GAGNER AVEC D'AUTRE TRADER FRANCOPHONE EN CETTE NOUVELLE ANNÉE!](2019-12-30_N_HHHm5WYSo_COMMENT APPRENDRE LE TRADING ET GAGNER AVEC D'AUTRE TRADER FRANCOPHONE EN CETTE NOUVELLE ANNÉE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 4m 05s | [Voir la Vidéo](https://www.youtube.com/watch?v=N_HHHm5WYSo) | `N_HHHm5WYSo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-12-07 | [UNE JOURNÉE DE SCALPING AVEC DANY MURRAY 8 TRADES LIVE POUR 2250$ CAD DE PROFIT](2019-12-07_TmVVv-6eTs4_UNE JOURNÉE DE SCALPING AVEC DANY MURRAY 8 TRADES LIVE POUR 2250$ CAD DE PROFIT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 32m 22s | [Voir la Vidéo](https://www.youtube.com/watch?v=TmVVv-6eTs4) | `TmVVv-6eTs4` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-11-21 | [COMMENT J'AI FAIT 10500$ EN 2 JOURS... DAY TRADING RECAP RAPIDE DE ACB HEXO, SECTEUR MARKET RECAP](2019-11-21_KT4NlU1N1VI_COMMENT J'AI FAIT 10500$ EN 2 JOURS... DAY TRADING RECAP RAPIDE DE ACB HEXO, SECTEUR MARKET RECAP_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 6m 14s | [Voir la Vidéo](https://www.youtube.com/watch?v=KT4NlU1N1VI) | `KT4NlU1N1VI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-11-23 | [FORMATION GRATUITE EN TRADING : COMMENT TRACER VOS LIGNES SUR LES GRAPHIQUES](2019-11-23_Jr0xf1cmLxI_FORMATION GRATUITE EN TRADING COMMENT TRACER VOS LIGNES SUR LES GRAPHIQUES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 34m 46s | [Voir la Vidéo](https://www.youtube.com/watch?v=Jr0xf1cmLxI) | `Jr0xf1cmLxI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
