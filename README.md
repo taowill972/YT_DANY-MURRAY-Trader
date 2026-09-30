@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `60 / 294` (`20.4%`)
+- **Vidéos traitées** : `61 / 294` (`20.7%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -75,6 +75,7 @@
 | 2019-11-02 | [LA PSYCHOLOGIE DU TRADING LES PHASES DU TRADING FORMATION GRATUITE](2019-11-02_U19GKS5US8o_LA PSYCHOLOGIE DU TRADING LES PHASES DU TRADING FORMATION GRATUITE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 17m 26s | [Voir la Vidéo](https://www.youtube.com/watch?v=U19GKS5US8o) | `U19GKS5US8o` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-10-26 | [TRADE LIVE AVEC 2 HALT POUR 35% DE HAUSSE 1450$ PROFIT EN 20 MINUTES](2019-10-26_04wvNbTaKsk_TRADE LIVE AVEC 2 HALT POUR 35% DE HAUSSE 1450$ PROFIT EN 20 MINUTES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 14m 53s | [Voir la Vidéo](https://www.youtube.com/watch?v=04wvNbTaKsk) | `04wvNbTaKsk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-10-19 | [MON SETUP DE TRADING POUR FAIRE DU DAY TRADING / SCALPING SUR LES MARCHÉ DES STOCKS US](2019-10-19_3rEO52xmr9w_MON SETUP DE TRADING POUR FAIRE DU DAY TRADING SCALPING SUR LES MARCHÉ DES STOCKS US_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 9m 05s | [Voir la Vidéo](https://www.youtube.com/watch?v=3rEO52xmr9w) | `3rEO52xmr9w` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-10-12 | [CES BROKERS / COURTIERS EN TRADING VOUS OFFRES LES TRANSACTIONS A 0$ POUR TOUJOURS!!! POUR VRAI?](2019-10-12_1KPA0cwYE-0_CES BROKERS COURTIERS EN TRADING VOUS OFFRES LES TRANSACTIONS A 0$ POUR TOUJOURS!!! POUR VRAI_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 11s | [Voir la Vidéo](https://www.youtube.com/watch?v=1KPA0cwYE-0) | `1KPA0cwYE-0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
