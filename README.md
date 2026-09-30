@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `68 / 294` (`23.1%`)
+- **Vidéos traitées** : `69 / 294` (`23.5%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -83,6 +83,7 @@
 | 2019-09-07 | [FORMATION GRATUITE : C'EST QUOI UN WEDGE/BISEAU MONTANT OU DESCENDANT À LA BOURSE](2019-09-07_jpDm3u-CcHY_FORMATION GRATUITE C'EST QUOI UN WEDGEBISEAU MONTANT OU DESCENDANT À LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 12m 23s | [Voir la Vidéo](https://www.youtube.com/watch?v=jpDm3u-CcHY) | `jpDm3u-CcHY` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-08-31 | [SCALPER EST PLUS FACILE QUE DAY TRADER OU SWING TRADER A LA BOURSE?](2019-08-31_JLXicTCS25s_SCALPER EST PLUS FACILE QUE DAY TRADER OU SWING TRADER A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=JLXicTCS25s) | `JLXicTCS25s` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-08-24 | [FORMATION GRATUITE : C'EST QUOI UN DRAPEAU/BULL FLAG RECTANGULAIRE A LA BOURSE](2019-08-24_s3klWhf0u_g_FORMATION GRATUITE C'EST QUOI UN DRAPEAUBULL FLAG RECTANGULAIRE A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 5m 33s | [Voir la Vidéo](https://www.youtube.com/watch?v=s3klWhf0u_g) | `s3klWhf0u_g` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-08-17 | [FORMATION GRATUITE SUR LES RETRACEMENTS DE FIBONACCI](2019-08-17_nDCjipzi0CE_FORMATION GRATUITE SUR LES RETRACEMENTS DE FIBONACCI_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 18m 02s | [Voir la Vidéo](https://www.youtube.com/watch?v=nDCjipzi0CE) | `nDCjipzi0CE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
