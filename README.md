@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `64 / 294` (`21.8%`)
+- **Vidéos traitées** : `65 / 294` (`22.1%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -79,6 +79,7 @@
 | 2019-10-05 | [LA RÈGLE ULTIME QUE TOUT LES TRADERS PRO UTILISENT À TOUT LEUR TRADES](2019-10-05_BPDTSiyjfL0_LA RÈGLE ULTIME QUE TOUT LES TRADERS PRO UTILISENT À TOUT LEUR TRADES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 29m 01s | [Voir la Vidéo](https://www.youtube.com/watch?v=BPDTSiyjfL0) | `BPDTSiyjfL0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-09-28 | [LE BULL FLAG / FANION À NE JAMAIS TRADER. POUR LES DAY TRADER / SCALPER À LA BOURSE](2019-09-28_cb_Pp5ZY-1g_LE BULL FLAG FANION À NE JAMAIS TRADER. POUR LES DAY TRADER SCALPER À LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 7m 34s | [Voir la Vidéo](https://www.youtube.com/watch?v=cb_Pp5ZY-1g) | `cb_Pp5ZY-1g` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-09-21 | [LE SECRET AVEC UN PLUS GROS CAPITAL? QUANTITÉ D'ACTION SUR LE MARCHÉ, LOW FLOAT VS HIGH FLOAT](2019-09-21_bQIuNjvfjqo_LE SECRET AVEC UN PLUS GROS CAPITAL QUANTITÉ D'ACTION SUR LE MARCHÉ, LOW FLOAT VS HIGH FLOAT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 18m 37s | [Voir la Vidéo](https://www.youtube.com/watch?v=bQIuNjvfjqo) | `bQIuNjvfjqo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-09-14 | [COMMENT J'AI FAIT 20 000$ EN 5 JOURS AVEC LE SWING TRADING ACB CGC HEXO ET+ TRADING RECAP](2019-09-14_ZHybvD1pOZU_COMMENT J'AI FAIT 20 000$ EN 5 JOURS AVEC LE SWING TRADING ACB CGC HEXO ET+ TRADING RECAP_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 26m 23s | [Voir la Vidéo](https://www.youtube.com/watch?v=ZHybvD1pOZU) | `ZHybvD1pOZU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
