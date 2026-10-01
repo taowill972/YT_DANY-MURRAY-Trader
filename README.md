@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `83 / 294` (`28.2%`)
+- **Vidéos traitées** : `84 / 294` (`28.6%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -98,6 +98,7 @@
 | 2019-03-29 | [WEBINAIRE SUR C'EST QUOI LE FLOAT, COMMENT TROUVER LES MEILLEURS GAINS DU JOUR EN TRADING](2019-03-29_jEcwB8bAPLA_WEBINAIRE SUR C'EST QUOI LE FLOAT, COMMENT TROUVER LES MEILLEURS GAINS DU JOUR EN TRADING_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 24m 24s | [Voir la Vidéo](https://www.youtube.com/watch?v=jEcwB8bAPLA) | `jEcwB8bAPLA` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-03-26 | [TRADE RECAP +30 000$ UPDATE ANALYSE DU SECTEUR CANNABIS ACB CGC CRON TGODF ET PLUS EN SWING TRADING](2019-03-26_VHja-J8sgeo_TRADE RECAP +30 000$ UPDATE ANALYSE DU SECTEUR CANNABIS ACB CGC CRON TGODF ET PLUS EN SWING TRADING_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 02s | [Voir la Vidéo](https://www.youtube.com/watch?v=VHja-J8sgeo) | `VHja-J8sgeo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-01-26 | [LES VOLUMES DANS LES BULL FLAG A COMPRENDRE POUR LE FOCUS ET VOS ENTRÉES  IMPECCABLES](2019-01-26_W72lJ7ZhJdY_LES VOLUMES DANS LES BULL FLAG A COMPRENDRE POUR LE FOCUS ET VOS ENTRÉES IMPECCABLES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 11m 34s | [Voir la Vidéo](https://www.youtube.com/watch?v=W72lJ7ZhJdY) | `W72lJ7ZhJdY` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-01-23 | [COMMENT TRADER EN PRE MARKET ET AFTER HOURS PRÉ MARCHÉ ET APRES MARCHÉ LES FRAIS ET TOUT LES DETAILS](2019-01-23_wmuEtY7jMLI_COMMENT TRADER EN PRE MARKET ET AFTER HOURS PRÉ MARCHÉ ET APRES MARCHÉ LES FRAIS ET TOUT LES DETAILS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 10m 51s | [Voir la Vidéo](https://www.youtube.com/watch?v=wmuEtY7jMLI) | `wmuEtY7jMLI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
