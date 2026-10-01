@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `88 / 294` (`29.9%`)
+- **Vidéos traitées** : `89 / 294` (`30.3%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -103,6 +103,7 @@
 | 2019-01-19 | [LES HEURES D'OUVERTURE DES BOURSES AMERICAINE DES MARCHÉS FINANCIERS ACTIONS US ET CAD](2019-01-19_Fi8mdvS9aPU_LES HEURES D'OUVERTURE DES BOURSES AMERICAINE DES MARCHÉS FINANCIERS ACTIONS US ET CAD_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 9m 34s | [Voir la Vidéo](https://www.youtube.com/watch?v=Fi8mdvS9aPU) | `Fi8mdvS9aPU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-01-16 | [TRADE RECAP 29 000$ DE GAIN EN 6 JOURS ET ANALYSE TECHNIQUE BOURSE DU SECTEUR POT  CANNABIS](2019-01-16_YYVaIe6s9UM_TRADE RECAP 29 000$ DE GAIN EN 6 JOURS ET ANALYSE TECHNIQUE BOURSE DU SECTEUR POT CANNABIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 21m 09s | [Voir la Vidéo](https://www.youtube.com/watch?v=YYVaIe6s9UM) | `YYVaIe6s9UM` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-12-21 | [C'EST QUOI UN GAP UP/DOWN HAUSSIER/BAISSIER & GAP FILL A LA BOURSE PARTIE #2](2018-12-21_tftn59bCNNU_C'EST QUOI UN GAP UPDOWN HAUSSIERBAISSIER & GAP FILL A LA BOURSE PARTIE #2_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 9m 19s | [Voir la Vidéo](https://www.youtube.com/watch?v=tftn59bCNNU) | `tftn59bCNNU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-12-14 | [MARKET RECAP DE MES SUPER GAIN DE 36 200$ EN 7 JOURS COMMENT PROFITER DU SECTEUR CANNABIS](2018-12-14_v6ImZXSvuTk_MARKET RECAP DE MES SUPER GAIN DE 36 200$ EN 7 JOURS COMMENT PROFITER DU SECTEUR CANNABIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 21m 52s | [Voir la Vidéo](https://www.youtube.com/watch?v=v6ImZXSvuTk) | `v6ImZXSvuTk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
