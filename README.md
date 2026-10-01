@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `80 / 294` (`27.2%`)
+- **Vidéos traitées** : `81 / 294` (`27.6%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -95,6 +95,7 @@
 | 2019-05-11 | [ANALYSE TECHNIQUE DE REVERSE SPLIT AVEC RÉSULTATS DE RECHERCHE, MÉTHODE A APPROFONDIR!](2019-05-11_3ucdZ-c0eDw_ANALYSE TECHNIQUE DE REVERSE SPLIT AVEC RÉSULTATS DE RECHERCHE, MÉTHODE A APPROFONDIR!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 14m 32s | [Voir la Vidéo](https://www.youtube.com/watch?v=3ucdZ-c0eDw) | `3ucdZ-c0eDw` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-05-04 | [FORMATION GRATUITE : C'EST QUOI LA DILUTION A LA BOURSE](2019-05-04_Zl6w3z0w7dw_FORMATION GRATUITE C'EST QUOI LA DILUTION A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 11m 36s | [Voir la Vidéo](https://www.youtube.com/watch?v=Zl6w3z0w7dw) | `Zl6w3z0w7dw` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-04-10 | [CRYPTO UPDATE  BITCOIN #BTC ALERTE ET OU S'EN VA T'IL? 5 MILLIONS OU A 1$?](2019-04-10_7FZlRE7ABq0_CRYPTO UPDATE BITCOIN #BTC ALERTE ET OU S'EN VA T'IL 5 MILLIONS OU A 1$_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 12m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=7FZlRE7ABq0) | `7FZlRE7ABq0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-03-29 | [WEBINAIRE SUR C'EST QUOI LE FLOAT, COMMENT TROUVER LES MEILLEURS GAINS DU JOUR EN TRADING](2019-03-29_jEcwB8bAPLA_WEBINAIRE SUR C'EST QUOI LE FLOAT, COMMENT TROUVER LES MEILLEURS GAINS DU JOUR EN TRADING_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 24m 24s | [Voir la Vidéo](https://www.youtube.com/watch?v=jEcwB8bAPLA) | `jEcwB8bAPLA` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
