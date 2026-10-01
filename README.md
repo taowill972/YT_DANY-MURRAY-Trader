@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `78 / 294` (`26.5%`)
+- **Vidéos traitées** : `79 / 294` (`26.9%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -93,6 +93,7 @@
 | 2019-06-18 | [BIEN COMPRENDRE LES VOLUMES DANS UN PUMP AND DUMP POUR NE PAS SE FAIRE PRENDRE DANS DE MAUVAIS TRADE](2019-06-18_zg7u1P6nu3Y_BIEN COMPRENDRE LES VOLUMES DANS UN PUMP AND DUMP POUR NE PAS SE FAIRE PRENDRE DANS DE MAUVAIS TRADE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 8m 07s | [Voir la Vidéo](https://www.youtube.com/watch?v=zg7u1P6nu3Y) | `zg7u1P6nu3Y` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-05-18 | [C'EST QUOI LE TAUREAU ET L'OURS A LA BOURSE? BATAILLE ENTRE BULL AND BEAR C'EST QUOI LE LIEN?](2019-05-18_D_MqBDlEJCc_C'EST QUOI LE TAUREAU ET L'OURS A LA BOURSE BATAILLE ENTRE BULL AND BEAR C'EST QUOI LE LIEN_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 5m 58s | [Voir la Vidéo](https://www.youtube.com/watch?v=D_MqBDlEJCc) | `D_MqBDlEJCc` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-05-11 | [ANALYSE TECHNIQUE DE REVERSE SPLIT AVEC RÉSULTATS DE RECHERCHE, MÉTHODE A APPROFONDIR!](2019-05-11_3ucdZ-c0eDw_ANALYSE TECHNIQUE DE REVERSE SPLIT AVEC RÉSULTATS DE RECHERCHE, MÉTHODE A APPROFONDIR!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 14m 32s | [Voir la Vidéo](https://www.youtube.com/watch?v=3ucdZ-c0eDw) | `3ucdZ-c0eDw` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-05-04 | [FORMATION GRATUITE : C'EST QUOI LA DILUTION A LA BOURSE](2019-05-04_Zl6w3z0w7dw_FORMATION GRATUITE C'EST QUOI LA DILUTION A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 11m 36s | [Voir la Vidéo](https://www.youtube.com/watch?v=Zl6w3z0w7dw) | `Zl6w3z0w7dw` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
