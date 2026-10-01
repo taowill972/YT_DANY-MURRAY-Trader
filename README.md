@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `85 / 294` (`28.9%`)
+- **Vidéos traitées** : `86 / 294` (`29.3%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -100,6 +100,7 @@
 | 2019-01-26 | [LES VOLUMES DANS LES BULL FLAG A COMPRENDRE POUR LE FOCUS ET VOS ENTRÉES  IMPECCABLES](2019-01-26_W72lJ7ZhJdY_LES VOLUMES DANS LES BULL FLAG A COMPRENDRE POUR LE FOCUS ET VOS ENTRÉES IMPECCABLES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 11m 34s | [Voir la Vidéo](https://www.youtube.com/watch?v=W72lJ7ZhJdY) | `W72lJ7ZhJdY` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-01-23 | [COMMENT TRADER EN PRE MARKET ET AFTER HOURS PRÉ MARCHÉ ET APRES MARCHÉ LES FRAIS ET TOUT LES DETAILS](2019-01-23_wmuEtY7jMLI_COMMENT TRADER EN PRE MARKET ET AFTER HOURS PRÉ MARCHÉ ET APRES MARCHÉ LES FRAIS ET TOUT LES DETAILS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 10m 51s | [Voir la Vidéo](https://www.youtube.com/watch?v=wmuEtY7jMLI) | `wmuEtY7jMLI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-01-21 | [TRADE EN DIRECT / LIVE TRADE AVEC 1250 DE PROFIT EN 3 MINUTES EN SCALPING LIVE](2019-01-21_E2c0YY9eMEk_TRADE EN DIRECT LIVE TRADE AVEC 1250 DE PROFIT EN 3 MINUTES EN SCALPING LIVE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 11m 53s | [Voir la Vidéo](https://www.youtube.com/watch?v=E2c0YY9eMEk) | `E2c0YY9eMEk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-01-19 | [LES HEURES D'OUVERTURE DES BOURSES AMERICAINE DES MARCHÉS FINANCIERS ACTIONS US ET CAD](2019-01-19_Fi8mdvS9aPU_LES HEURES D'OUVERTURE DES BOURSES AMERICAINE DES MARCHÉS FINANCIERS ACTIONS US ET CAD_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 9m 34s | [Voir la Vidéo](https://www.youtube.com/watch?v=Fi8mdvS9aPU) | `Fi8mdvS9aPU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
