@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `75 / 294` (`25.5%`)
+- **Vidéos traitées** : `76 / 294` (`25.9%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -90,6 +90,7 @@
 | 2019-08-03 | [LA PATIENCE A SES VERTUS NE JAMAIS CHASSER ET RESTER PATIENT](2019-08-03_WseSio9WhS0_LA PATIENCE A SES VERTUS NE JAMAIS CHASSER ET RESTER PATIENT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 15m 25s | [Voir la Vidéo](https://www.youtube.com/watch?v=WseSio9WhS0) | `WseSio9WhS0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-07-31 | [TRADE RECAP D'AUJOURDHUI ACB SLS +6000$ ET LE CHAT ROOM LIVE](2019-07-31_KeyNblD-x08_TRADE RECAP D'AUJOURDHUI ACB SLS +6000$ ET LE CHAT ROOM LIVE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 17m 49s | [Voir la Vidéo](https://www.youtube.com/watch?v=KeyNblD-x08) | `KeyNblD-x08` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-07-06 | [COMMENT FAIRE DU SCALPING PAYANT A L'OUVERTURE AVEC 2 TRADE LIVE POUR +-1600$ DE PROFIT](2019-07-06_7Lbr_t8f42Y_COMMENT FAIRE DU SCALPING PAYANT A L'OUVERTURE AVEC 2 TRADE LIVE POUR +-1600$ DE PROFIT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=7Lbr_t8f42Y) | `7Lbr_t8f42Y` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-06-18 | [BIEN COMPRENDRE LES VOLUMES DANS UN PUMP AND DUMP POUR NE PAS SE FAIRE PRENDRE DANS DE MAUVAIS TRADE](2019-06-18_zg7u1P6nu3Y_BIEN COMPRENDRE LES VOLUMES DANS UN PUMP AND DUMP POUR NE PAS SE FAIRE PRENDRE DANS DE MAUVAIS TRADE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 8m 07s | [Voir la Vidéo](https://www.youtube.com/watch?v=zg7u1P6nu3Y) | `zg7u1P6nu3Y` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
