@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `71 / 294` (`24.1%`)
+- **Vidéos traitées** : `72 / 294` (`24.5%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -86,6 +86,7 @@
 | 2019-08-17 | [FORMATION GRATUITE SUR LES RETRACEMENTS DE FIBONACCI](2019-08-17_nDCjipzi0CE_FORMATION GRATUITE SUR LES RETRACEMENTS DE FIBONACCI_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 18m 02s | [Voir la Vidéo](https://www.youtube.com/watch?v=nDCjipzi0CE) | `nDCjipzi0CE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-08-14 | [FORMATION GRATUITE : C'EST QUOI UN TRADING RANGE A LA BOURSE?](2019-08-14_Df1m32Lp5Hk_FORMATION GRATUITE C'EST QUOI UN TRADING RANGE A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 5m 17s | [Voir la Vidéo](https://www.youtube.com/watch?v=Df1m32Lp5Hk) | `Df1m32Lp5Hk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-08-10 | [ANALYSE DE MON TRADING AVEC TRADERVUE! AU FINALE 150 000$ USD EN 12 MOIS!](2019-08-10_gLgvrRcvBdU_ANALYSE DE MON TRADING AVEC TRADERVUE! AU FINALE 150 000$ USD EN 12 MOIS!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 19m 13s | [Voir la Vidéo](https://www.youtube.com/watch?v=gLgvrRcvBdU) | `gLgvrRcvBdU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-08-07 | [AMPLITUDE DES MOUVEMENTS PARABOLIQUE A LA BOURSE COMMENT LES INTERPRETER](2019-08-07_9mSLQDnDu0c_AMPLITUDE DES MOUVEMENTS PARABOLIQUE A LA BOURSE COMMENT LES INTERPRETER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 8m 40s | [Voir la Vidéo](https://www.youtube.com/watch?v=9mSLQDnDu0c) | `9mSLQDnDu0c` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
