@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `90 / 294` (`30.6%`)
+- **Vidéos traitées** : `91 / 294` (`31.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -105,6 +105,7 @@
 | 2018-12-21 | [C'EST QUOI UN GAP UP/DOWN HAUSSIER/BAISSIER & GAP FILL A LA BOURSE PARTIE #2](2018-12-21_tftn59bCNNU_C'EST QUOI UN GAP UPDOWN HAUSSIERBAISSIER & GAP FILL A LA BOURSE PARTIE #2_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 9m 19s | [Voir la Vidéo](https://www.youtube.com/watch?v=tftn59bCNNU) | `tftn59bCNNU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-12-14 | [MARKET RECAP DE MES SUPER GAIN DE 36 200$ EN 7 JOURS COMMENT PROFITER DU SECTEUR CANNABIS](2018-12-14_v6ImZXSvuTk_MARKET RECAP DE MES SUPER GAIN DE 36 200$ EN 7 JOURS COMMENT PROFITER DU SECTEUR CANNABIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 21m 52s | [Voir la Vidéo](https://www.youtube.com/watch?v=v6ImZXSvuTk) | `v6ImZXSvuTk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-11-27 | [L'ÉVOLUTION D'UN TRADER VERS LE SUCCÈS.. L'ÉVOLUTION GRAPHIQUE DE L'ARGENT DU COMPTE DANS LE TEMPS](2018-11-27_nafKo6vtIFg_L'ÉVOLUTION D'UN TRADER VERS LE SUCCÈS.. L'ÉVOLUTION GRAPHIQUE DE L'ARGENT DU COMPTE DANS LE TEMPS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 22m 33s | [Voir la Vidéo](https://www.youtube.com/watch?v=nafKo6vtIFg) | `nafKo6vtIFg` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-11-25 | [ANALYSE TECHNIQUE HEXO, APHA APHRIA, AURORA ACB, CANOPY GROW CGC WEED.TO, TGOD](2018-11-25_1rOt-qSv9Yk_ANALYSE TECHNIQUE HEXO, APHA APHRIA, AURORA ACB, CANOPY GROW CGC WEED.TO, TGOD_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 26s | [Voir la Vidéo](https://www.youtube.com/watch?v=1rOt-qSv9Yk) | `1rOt-qSv9Yk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
