@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `92 / 294` (`31.3%`)
+- **Vidéos traitées** : `93 / 294` (`31.6%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -107,6 +107,7 @@
 | 2018-11-27 | [L'ÉVOLUTION D'UN TRADER VERS LE SUCCÈS.. L'ÉVOLUTION GRAPHIQUE DE L'ARGENT DU COMPTE DANS LE TEMPS](2018-11-27_nafKo6vtIFg_L'ÉVOLUTION D'UN TRADER VERS LE SUCCÈS.. L'ÉVOLUTION GRAPHIQUE DE L'ARGENT DU COMPTE DANS LE TEMPS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 22m 33s | [Voir la Vidéo](https://www.youtube.com/watch?v=nafKo6vtIFg) | `nafKo6vtIFg` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-11-25 | [ANALYSE TECHNIQUE HEXO, APHA APHRIA, AURORA ACB, CANOPY GROW CGC WEED.TO, TGOD](2018-11-25_1rOt-qSv9Yk_ANALYSE TECHNIQUE HEXO, APHA APHRIA, AURORA ACB, CANOPY GROW CGC WEED.TO, TGOD_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 26s | [Voir la Vidéo](https://www.youtube.com/watch?v=1rOt-qSv9Yk) | `1rOt-qSv9Yk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-11-21 | [LE CRASH / LA MORT DU BITCOIN ET LA PUISSANCE DE L'ANALYSE TECHNIQUE](2018-11-21_ThIGnxcNeUU_LE CRASH LA MORT DU BITCOIN ET LA PUISSANCE DE L'ANALYSE TECHNIQUE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 13m 03s | [Voir la Vidéo](https://www.youtube.com/watch?v=ThIGnxcNeUU) | `ThIGnxcNeUU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-11-15 | [COMMENT TROUVER LE FOND SUR UNE ACTION POUR DE SUPERBE SWING TRADE! DANS UN SECTEUR PRÉCIS](2018-11-15_W-vt9qJ1SaE_COMMENT TROUVER LE FOND SUR UNE ACTION POUR DE SUPERBE SWING TRADE! DANS UN SECTEUR PRÉCIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 30s | [Voir la Vidéo](https://www.youtube.com/watch?v=W-vt9qJ1SaE) | `W-vt9qJ1SaE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
