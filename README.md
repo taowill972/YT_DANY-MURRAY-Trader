@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `100 / 328` (`30.5%`)
+- **Vidéos traitées** : `101 / 328` (`30.8%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -115,6 +115,7 @@
 | 2020-12-25 | [Temps fort : 10 000$ en 10 minutes LIVE avec commentaires](2020-12-25_v849211966_Temps fort 10 000$ en 10 minutes LIVE avec commentaires_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 10m 51s | [Voir la Vidéo](https://www.twitch.tv/videos/849211966) | `v849211966` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-09-14 | [COURS #3 DÉBUT DE FORMATION GRATUITE](2021-09-14_v1148623841_COURS #3 DÉBUT DE FORMATION GRATUITE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 58m 17s | [Voir la Vidéo](https://www.twitch.tv/videos/1148623841) | `v1148623841` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2021-09-14 | [COURS #2 DÉBUT DE FORMATION GRATUITE ](2021-09-14_v1148620292_COURS #2 DÉBUT DE FORMATION GRATUITE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 30m 13s | [Voir la Vidéo](https://www.twitch.tv/videos/1148620292) | `v1148620292` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2021-09-14 | [COURS #1 DÉBUT DE FORMATION GRATUITE](2021-09-14_v1148618104_COURS #1 DÉBUT DE FORMATION GRATUITE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 120m 06s | [Voir la Vidéo](https://www.twitch.tv/videos/1148618104) | `v1148618104` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
