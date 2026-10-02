@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `93 / 294` (`31.6%`)
+- **Vidéos traitées** : `94 / 294` (`32.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -108,6 +108,7 @@
 | 2018-11-25 | [ANALYSE TECHNIQUE HEXO, APHA APHRIA, AURORA ACB, CANOPY GROW CGC WEED.TO, TGOD](2018-11-25_1rOt-qSv9Yk_ANALYSE TECHNIQUE HEXO, APHA APHRIA, AURORA ACB, CANOPY GROW CGC WEED.TO, TGOD_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 26s | [Voir la Vidéo](https://www.youtube.com/watch?v=1rOt-qSv9Yk) | `1rOt-qSv9Yk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-11-21 | [LE CRASH / LA MORT DU BITCOIN ET LA PUISSANCE DE L'ANALYSE TECHNIQUE](2018-11-21_ThIGnxcNeUU_LE CRASH LA MORT DU BITCOIN ET LA PUISSANCE DE L'ANALYSE TECHNIQUE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 13m 03s | [Voir la Vidéo](https://www.youtube.com/watch?v=ThIGnxcNeUU) | `ThIGnxcNeUU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-11-15 | [COMMENT TROUVER LE FOND SUR UNE ACTION POUR DE SUPERBE SWING TRADE! DANS UN SECTEUR PRÉCIS](2018-11-15_W-vt9qJ1SaE_COMMENT TROUVER LE FOND SUR UNE ACTION POUR DE SUPERBE SWING TRADE! DANS UN SECTEUR PRÉCIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 30s | [Voir la Vidéo](https://www.youtube.com/watch?v=W-vt9qJ1SaE) | `W-vt9qJ1SaE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-10-21 | [REVUE DE MES MEILLEURS GAINS DE LA SEMAINE AVEC DES 13 500$ PROFIT AVEC ACBFF CREG YECO +1000% ETC.](2018-10-21_K4i_7uB-y9w_REVUE DE MES MEILLEURS GAINS DE LA SEMAINE AVEC DES 13 500$ PROFIT AVEC ACBFF CREG YECO +1000% ETC._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 21m 24s | [Voir la Vidéo](https://www.youtube.com/watch?v=K4i_7uB-y9w) | `K4i_7uB-y9w` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
