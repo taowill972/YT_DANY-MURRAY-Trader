@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) de la chaîne **[Dany Murray Trader](https://www.youtube.com/@danymurraytrader6032)**.
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `95 / 294` (`32.3%`)
+- **Vidéos traitées** : `96 / 294` (`32.7%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -110,6 +110,7 @@
 | 2018-11-15 | [COMMENT TROUVER LE FOND SUR UNE ACTION POUR DE SUPERBE SWING TRADE! DANS UN SECTEUR PRÉCIS](2018-11-15_W-vt9qJ1SaE_COMMENT TROUVER LE FOND SUR UNE ACTION POUR DE SUPERBE SWING TRADE! DANS UN SECTEUR PRÉCIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 16m 30s | [Voir la Vidéo](https://www.youtube.com/watch?v=W-vt9qJ1SaE) | `W-vt9qJ1SaE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-10-21 | [REVUE DE MES MEILLEURS GAINS DE LA SEMAINE AVEC DES 13 500$ PROFIT AVEC ACBFF CREG YECO +1000% ETC.](2018-10-21_K4i_7uB-y9w_REVUE DE MES MEILLEURS GAINS DE LA SEMAINE AVEC DES 13 500$ PROFIT AVEC ACBFF CREG YECO +1000% ETC._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 21m 24s | [Voir la Vidéo](https://www.youtube.com/watch?v=K4i_7uB-y9w) | `K4i_7uB-y9w` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-10-07 | [COMMENT J'AI FAIT 310$ EN 6 SECONDES CE MATIN AVEC UN MAUVAIS TRADE MAIS UN BON SCALP, VIDEO LIVE](2018-10-07_ilYMJBCDBWI_COMMENT J'AI FAIT 310$ EN 6 SECONDES CE MATIN AVEC UN MAUVAIS TRADE MAIS UN BON SCALP, VIDEO LIVE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 10m 52s | [Voir la Vidéo](https://www.youtube.com/watch?v=ilYMJBCDBWI) | `ilYMJBCDBWI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-10-04 | [ENTREVUE AVEC VINI, COMMENT FAIRE 17 000$ AVEC UN CAPITAL DE 14 000$ EN 3 SEMAINES](2018-10-04_kEgl-PQDi7o_ENTREVUE AVEC VINI, COMMENT FAIRE 17 000$ AVEC UN CAPITAL DE 14 000$ EN 3 SEMAINES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | 24m 32s | [Voir la Vidéo](https://www.youtube.com/watch?v=kEgl-PQDi7o) | `kEgl-PQDi7o` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
