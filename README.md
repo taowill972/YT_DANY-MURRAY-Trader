@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `122 / 328` (`37.2%`)
+- **Vidéos traitées** : `123 / 328` (`37.5%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -137,6 +137,7 @@
 | 2018-06-16 | [TRADER SHOW 2018-06-12](2018-06-16_v273918204_TRADER SHOW 2018-06-12_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 25m 04s | [Voir la Vidéo](https://www.twitch.tv/videos/273918204) | `v273918204` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-16 | [TRADER SHOW 2018-06-08](2018-06-16_v273917441_TRADER SHOW 2018-06-08_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 47m 58s | [Voir la Vidéo](https://www.twitch.tv/videos/273917441) | `v273917441` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-08 | [TRADER SHOW 2018-06-04](2018-06-08_v270789818_TRADER SHOW 2018-06-04_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 44m 36s | [Voir la Vidéo](https://www.twitch.tv/videos/270789818) | `v270789818` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-06-08 | [TRADER SHOW 2018-06-06](2018-06-08_v270787688_TRADER SHOW 2018-06-06_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 47m 12s | [Voir la Vidéo](https://www.twitch.tv/videos/270787688) | `v270787688` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
