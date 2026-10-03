@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `116 / 328` (`35.4%`)
+- **Vidéos traitées** : `117 / 328` (`35.7%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -131,6 +131,7 @@
 | 2019-01-29 | [Temps fort : TRADER SHOW AVEC BOB MURRAY](2019-01-29_v371732693_Temps fort TRADER SHOW AVEC BOB MURRAY_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 44m 55s | [Voir la Vidéo](https://www.twitch.tv/videos/371732693) | `v371732693` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-11-23 | [TRADER SHOW SPECIAL AVIATION !](2018-11-23_v339481560_TRADER SHOW SPECIAL AVIATION !_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 32m 51s | [Voir la Vidéo](https://www.twitch.tv/videos/339481560) | `v339481560` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-16 | [JE PETE MA COCHE HEMP 2018-06-15](2018-06-16_v273920324_JE PETE MA COCHE HEMP 2018-06-15_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 27m 00s | [Voir la Vidéo](https://www.twitch.tv/videos/273920324) | `v273920324` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-06-16 | [TRADER SHOWWWWW 2018-06-15](2018-06-16_v273919507_TRADER SHOWWWWW 2018-06-15_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 28m 12s | [Voir la Vidéo](https://www.twitch.tv/videos/273919507) | `v273919507` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
