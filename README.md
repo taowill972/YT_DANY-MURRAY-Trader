@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `125 / 328` (`38.1%`)
+- **Vidéos traitées** : `126 / 328` (`38.4%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -140,6 +140,7 @@
 | 2018-06-08 | [TRADER SHOW 2018-06-06](2018-06-08_v270787688_TRADER SHOW 2018-06-06_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 47m 12s | [Voir la Vidéo](https://www.twitch.tv/videos/270787688) | `v270787688` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-05 | [TRADER SHOW  2018-06-01](2018-06-05_v269708462_TRADER SHOW 2018-06-01_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 51m 24s | [Voir la Vidéo](https://www.twitch.tv/videos/269708462) | `v269708462` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-02 | [TRADER SHOWZZZZ](2018-06-02_v268481603_TRADER SHOWZZZZ_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 17m 54s | [Voir la Vidéo](https://www.twitch.tv/videos/268481603) | `v268481603` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-06-01 | [TRADER SHOW 2018-05-31](2018-06-01_v268075894_TRADER SHOW 2018-05-31_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 29m 24s | [Voir la Vidéo](https://www.twitch.tv/videos/268075894) | `v268075894` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
