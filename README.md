@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `120 / 328` (`36.6%`)
+- **Vidéos traitées** : `121 / 328` (`36.9%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -135,6 +135,7 @@
 | 2018-06-16 | [TRADER SHOWWWW 2018-06-14](2018-06-16_v273919049_TRADER SHOWWWW 2018-06-14_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 38m 42s | [Voir la Vidéo](https://www.twitch.tv/videos/273919049) | `v273919049` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-16 | [TRADER SHOW 2018-06-13](2018-06-16_v273918643_TRADER SHOW 2018-06-13_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 34m 54s | [Voir la Vidéo](https://www.twitch.tv/videos/273918643) | `v273918643` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-16 | [TRADER SHOW 2018-06-12](2018-06-16_v273918204_TRADER SHOW 2018-06-12_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 25m 04s | [Voir la Vidéo](https://www.twitch.tv/videos/273918204) | `v273918204` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-06-16 | [TRADER SHOW 2018-06-08](2018-06-16_v273917441_TRADER SHOW 2018-06-08_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 47m 58s | [Voir la Vidéo](https://www.twitch.tv/videos/273917441) | `v273917441` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
