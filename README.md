@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `105 / 328` (`32.0%`)
+- **Vidéos traitées** : `106 / 328` (`32.3%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -120,6 +120,7 @@
 | 2020-05-23 | [22 000$ CAD DE PROFIT EN QUELQUE HEURES...LA HAUSSE!](2020-05-23_v629114580_22 000$ CAD DE PROFIT EN QUELQUE HEURES...LA HAUSSE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 75m 37s | [Voir la Vidéo](https://www.twitch.tv/videos/629114580) | `v629114580` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-05-23 | [LA HAUSSE DE HEXO PRISE 2 DE 10 000$](2020-05-23_v629109181_LA HAUSSE DE HEXO PRISE 2 DE 10 000$_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 213m 32s | [Voir la Vidéo](https://www.twitch.tv/videos/629109181) | `v629109181` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2020-05-23 | [+10 000$ us aujourdhui. Hexoooo](2020-05-23_v629107099_+10 000$ us aujourdhui. Hexoooo_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 83m 59s | [Voir la Vidéo](https://www.twitch.tv/videos/629107099) | `v629107099` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2020-03-01 | [26000$ DE GAIN EN 1 JOUR RECAP](2020-03-01_v560476675_26000$ DE GAIN EN 1 JOUR RECAP_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 291m 03s | [Voir la Vidéo](https://www.twitch.tv/videos/560476675) | `v560476675` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
