@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `109 / 328` (`33.2%`)
+- **Vidéos traitées** : `110 / 328` (`33.5%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -124,6 +124,7 @@
 | 2019-11-09 | [26 000$ CANADIEN DE PROFIT EN 1 JOURNÉE](2019-11-09_v506029779_26 000$ CANADIEN DE PROFIT EN 1 JOURNÉE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 414m 27s | [Voir la Vidéo](https://www.twitch.tv/videos/506029779) | `v506029779` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-03-01 | [PRENEZ LE CASH ET SACRE TON CAMP](2019-03-01_v388527549_PRENEZ LE CASH ET SACRE TON CAMP_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 37m 00s | [Voir la Vidéo](https://www.twitch.tv/videos/388527549) | `v388527549` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-03-01 | [TRADER SHOW OH YEAHHHH](2019-03-01_v388421865_TRADER SHOW OH YEAHHHH_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 213m 52s | [Voir la Vidéo](https://www.twitch.tv/videos/388421865) | `v388421865` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-03-01 | [VENDEZ ET METTEZ DU CASH DANS VOTRE COMPTE...](2019-03-01_v388420555_VENDEZ ET METTEZ DU CASH DANS VOTRE COMPTE..._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 211m 21s | [Voir la Vidéo](https://www.twitch.tv/videos/388420555) | `v388420555` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
