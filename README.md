@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `112 / 328` (`34.1%`)
+- **Vidéos traitées** : `113 / 328` (`34.5%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -127,6 +127,7 @@
 | 2019-03-01 | [VENDEZ ET METTEZ DU CASH DANS VOTRE COMPTE...](2019-03-01_v388420555_VENDEZ ET METTEZ DU CASH DANS VOTRE COMPTE..._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 211m 21s | [Voir la Vidéo](https://www.twitch.tv/videos/388420555) | `v388420555` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-01-31 | [TRADER SHOW 2019-01-31](2019-01-31_v373088937_TRADER SHOW 2019-01-31_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 26m 10s | [Voir la Vidéo](https://www.twitch.tv/videos/373088937) | `v373088937` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2026-10-03 | [Temps fort : TRADER SHOWZZZZZ](2026-10-03_v371735827_Temps fort TRADER SHOWZZZZZ_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 32m 28s | [Voir la Vidéo](https://www.twitch.tv/videos/371735827) | `v371735827` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2019-01-29 | [Temps fort : TRADER SHOW](2019-01-29_v371734074_Temps fort TRADER SHOW_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 24m 23s | [Voir la Vidéo](https://www.twitch.tv/videos/371734074) | `v371734074` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
