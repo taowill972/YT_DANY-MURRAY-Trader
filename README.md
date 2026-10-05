@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `134 / 328` (`40.9%`)
+- **Vidéos traitées** : `135 / 328` (`41.2%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -149,6 +149,7 @@
 | 2018-09-30 | [POURQUOI PLUSIEURS PERDENT DANS LES PENNY STOCKS A LA BOURSE. DEVENEZ DES CONAISSEURS](2018-09-30_p_hlVNhWiIQ_POURQUOI PLUSIEURS PERDENT DANS LES PENNY STOCKS A LA BOURSE. DEVENEZ DES CONAISSEURS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 12m 56s | [Voir la Vidéo](https://www.youtube.com/watch?v=p_hlVNhWiIQ) | `p_hlVNhWiIQ` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-08-25 | [POUVEZ-VOUS VRAIMENT FAIRE 17 500$ DANS LES PENNY STOCK EN 4 JOURS? LE SECTEUR MARIJUANA/CANNABIS](2018-08-25_nIF6jGSvtDM_POUVEZ-VOUS VRAIMENT FAIRE 17 500$ DANS LES PENNY STOCK EN 4 JOURS LE SECTEUR MARIJUANACANNABIS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 20m 02s | [Voir la Vidéo](https://www.youtube.com/watch?v=nIF6jGSvtDM) | `nIF6jGSvtDM` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2019-01-10 | [FORMATION SUR C'EST QUOI UNE LIGNE DE NIVEAU À LA BOURSE, POUR DAY TRADING SWING TRADING OU INVESTIR](2019-01-10_E5rf2FRyBOY_FORMATION SUR C'EST QUOI UNE LIGNE DE NIVEAU À LA BOURSE, POUR DAY TRADING SWING TRADING OU INVESTIR_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 12m 57s | [Voir la Vidéo](https://www.youtube.com/watch?v=E5rf2FRyBOY) | `E5rf2FRyBOY` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-08-09 | [COMMENT FAIRE 3750$ AVEC UN REVERSE SPLIT PUMP AND DUMP DANS LES PENNY STOCKS](2018-08-09_CmhcSccVWzM_COMMENT FAIRE 3750$ AVEC UN REVERSE SPLIT PUMP AND DUMP DANS LES PENNY STOCKS_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 15m 16s | [Voir la Vidéo](https://www.youtube.com/watch?v=CmhcSccVWzM) | `CmhcSccVWzM` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
