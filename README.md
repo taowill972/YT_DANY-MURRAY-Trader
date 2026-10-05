@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `130 / 328` (`39.6%`)
+- **Vidéos traitées** : `131 / 328` (`39.9%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -145,6 +145,7 @@
 | 2018-05-24 | [Temps fort : DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-23](2018-05-24_v264940184_Temps fort DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-23_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 32m 54s | [Voir la Vidéo](https://www.twitch.tv/videos/264940184) | `v264940184` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-23 | [Temps fort : DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-18](2018-05-23_v264567474_Temps fort DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-18_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 21m 33s | [Voir la Vidéo](https://www.twitch.tv/videos/264567474) | `v264567474` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-23 | [Temps fort : DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-18](2018-05-23_v264566635_Temps fort DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-18_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 22m 06s | [Voir la Vidéo](https://www.twitch.tv/videos/264566635) | `v264566635` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-05-18 | [Temps fort : DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-16](2018-05-18_v262691335_Temps fort DANY MURRAY STOCK MARKET LIVE TRADING AVEC CHAT ROOM FRANCOPHONE 2018-05-16_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | **Twitch** | 30m 18s | [Voir la Vidéo](https://www.twitch.tv/videos/262691335) | `v262691335` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
