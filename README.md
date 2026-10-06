@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `140 / 328` (`42.7%`)
+- **Vidéos traitées** : `141 / 328` (`43.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -154,6 +154,7 @@
 | 2018-07-18 | [MACD LE TRUC ULTIME POUR VOUS AIDER! C'EST QUOI LA DIVERGENCE DES MOYENNES MOBILES](2018-07-18_-UaJnAq8URo_MACD LE TRUC ULTIME POUR VOUS AIDER! C'EST QUOI LA DIVERGENCE DES MOYENNES MOBILES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 9m 12s | [Voir la Vidéo](https://www.youtube.com/watch?v=-UaJnAq8URo) | `-UaJnAq8URo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-07-12 | [COMMENT FAIRE LE FOCUS SUR LA RESISTANCE SUR LE NIVEAU 2](2018-07-12_-K5qlpoiR80_COMMENT FAIRE LE FOCUS SUR LA RESISTANCE SUR LE NIVEAU 2_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 7m 14s | [Voir la Vidéo](https://www.youtube.com/watch?v=-K5qlpoiR80) | `-K5qlpoiR80` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-07-10 | [COMMENT PASSER DES ORDRES ULTRA RAPIDE A LA BOURSE AVEC QUESTRADE IQ EDGE](2018-07-10_Ee4IsoO_04o_COMMENT PASSER DES ORDRES ULTRA RAPIDE A LA BOURSE AVEC QUESTRADE IQ EDGE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 10m 18s | [Voir la Vidéo](https://www.youtube.com/watch?v=Ee4IsoO_04o) | `Ee4IsoO_04o` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-07-06 | [LES CHANDELIERS JAPONAIS C'EST QUOI LES 3 SOLDATS BLANC? ANALYSE TECHNIQUE A LA BOURSE](2018-07-06_9K-9DqnEZmE_LES CHANDELIERS JAPONAIS C'EST QUOI LES 3 SOLDATS BLANC ANALYSE TECHNIQUE A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 5m 36s | [Voir la Vidéo](https://www.youtube.com/watch?v=9K-9DqnEZmE) | `9K-9DqnEZmE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-30 | [LE SECRET POUR RÉUSSIR TOUT CE QUE VOUS ENTREPRENEZ DANS LA VIE...](2018-06-30_FffLurGzZ78_LE SECRET POUR RÉUSSIR TOUT CE QUE VOUS ENTREPRENEZ DANS LA VIE..._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 13m 53s | [Voir la Vidéo](https://www.youtube.com/watch?v=FffLurGzZ78) | `FffLurGzZ78` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
