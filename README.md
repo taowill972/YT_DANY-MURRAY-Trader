@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `143 / 328` (`43.6%`)
+- **Vidéos traitées** : `144 / 328` (`43.9%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -158,6 +158,7 @@
 | 2018-06-30 | [LE SECRET POUR RÉUSSIR TOUT CE QUE VOUS ENTREPRENEZ DANS LA VIE...](2018-06-30_FffLurGzZ78_LE SECRET POUR RÉUSSIR TOUT CE QUE VOUS ENTREPRENEZ DANS LA VIE..._by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 13m 53s | [Voir la Vidéo](https://www.youtube.com/watch?v=FffLurGzZ78) | `FffLurGzZ78` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-28 | [JOURNEE FOLLE DANS LES PENNY STOCKS A LA BOURSE DFBG +520% PED +973% ET BEAUCOUP D'AUTRES YUMA CEI](2018-06-28_U8a1J7gINaU_JOURNEE FOLLE DANS LES PENNY STOCKS A LA BOURSE DFBG +520% PED +973% ET BEAUCOUP D'AUTRES YUMA CEI_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 7m 38s | [Voir la Vidéo](https://www.youtube.com/watch?v=U8a1J7gINaU) | `U8a1J7gINaU` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-06-21 | [LES CHANDELERS JAPONAIS C'EST QUOI UNE STRUCTURE PENETRANTE HAUSSIERE BAISSIERE](2018-06-21_qfjJUTq7l2M_LES CHANDELERS JAPONAIS C'EST QUOI UNE STRUCTURE PENETRANTE HAUSSIERE BAISSIERE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 5m 10s | [Voir la Vidéo](https://www.youtube.com/watch?v=qfjJUTq7l2M) | `qfjJUTq7l2M` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-06-16 | [LA PLUS BELLE JOURNEE DANS MA CARRIERE DE TRADER A LA BOURSE!](2018-06-16_ObgpbLjJKd0_LA PLUS BELLE JOURNEE DANS MA CARRIERE DE TRADER A LA BOURSE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 16m 25s | [Voir la Vidéo](https://www.youtube.com/watch?v=ObgpbLjJKd0) | `ObgpbLjJKd0` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
