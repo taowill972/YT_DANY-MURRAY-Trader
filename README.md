@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `138 / 328` (`42.1%`)
+- **Vidéos traitées** : `139 / 328` (`42.4%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -153,6 +153,7 @@
 | 2018-07-21 | [LE TRADER SHOW DE LA SEMAINE! DE RETOUR A LA BASE POUR MOI POUR LA DERNIERE FOIS!](2018-07-21_lTLZ2nZIbgw_LE TRADER SHOW DE LA SEMAINE! DE RETOUR A LA BASE POUR MOI POUR LA DERNIERE FOIS!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 29m 25s | [Voir la Vidéo](https://www.youtube.com/watch?v=lTLZ2nZIbgw) | `lTLZ2nZIbgw` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-07-18 | [MACD LE TRUC ULTIME POUR VOUS AIDER! C'EST QUOI LA DIVERGENCE DES MOYENNES MOBILES](2018-07-18_-UaJnAq8URo_MACD LE TRUC ULTIME POUR VOUS AIDER! C'EST QUOI LA DIVERGENCE DES MOYENNES MOBILES_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 9m 12s | [Voir la Vidéo](https://www.youtube.com/watch?v=-UaJnAq8URo) | `-UaJnAq8URo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-07-12 | [COMMENT FAIRE LE FOCUS SUR LA RESISTANCE SUR LE NIVEAU 2](2018-07-12_-K5qlpoiR80_COMMENT FAIRE LE FOCUS SUR LA RESISTANCE SUR LE NIVEAU 2_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 7m 14s | [Voir la Vidéo](https://www.youtube.com/watch?v=-K5qlpoiR80) | `-K5qlpoiR80` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-07-10 | [COMMENT PASSER DES ORDRES ULTRA RAPIDE A LA BOURSE AVEC QUESTRADE IQ EDGE](2018-07-10_Ee4IsoO_04o_COMMENT PASSER DES ORDRES ULTRA RAPIDE A LA BOURSE AVEC QUESTRADE IQ EDGE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 10m 18s | [Voir la Vidéo](https://www.youtube.com/watch?v=Ee4IsoO_04o) | `Ee4IsoO_04o` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
