@@ -692,11 +692,11 @@ Dans cette vidéo intitulée **LE TRADER SHOW DE LA SEMAINE! DE RETOUR A LA BASE
 > tout le monde, focus, prenez votre temps, essayez pas d'overtrader pour rien attendez les mouvements qu'il faut et quand ils arriveront, vous serez focus s'il y en a juste un aujourd'hui ben au moins, vous allez embarquer dans une transaction qui va bien aller et à partir de là, ben oui vous allez pouvoir faire un gain intéressant, peu importe que ce soit 20 ou 30 ou 50 c'est le process que vous apprenez à travers tout ça ben vous allez rendre compte que bon il y en a peut-être juste un trade aujourd'hui mais il y en a peut-être 2 ou 3 demain ou tu sais puis là bon
 
 **👁️ Analyse Visuelle d'Écran (gemini-3.5-flash-lite) :**
-**Interface & Outils** : Plateforme de trading multi-fenêtres de type courtier professionnel (graphiques, listes de surveillance et carnets d'ordres).
+**Interface & Outils** : Dany Murray face caméra ou présentation générale de trading.
 
-**Contenu textuel & Code** : Listes de tickers (PED, CDMO, GBR, NSU à 3.615 $), graphiques en chandeliers (unités 5m et 1m), carnets d'ordres de niveau 2 (Bids/Asks) et tableau des transactions en temps réel (Time & Sales). Filigrane "WWW.DANYMURRAYTRADER.COM" visible en bas.
+**Contenu textuel & Code** : Explications orales des concepts de bourse et psychologie de marché.
 
-**Action / Démonstration** : Aucune manipulation active ni curseur visible ; affichage statique de la station de travail pour illustrer l'attente et la focalisation sur le marché.
+**Action / Démonstration** : Démonstration pédagogique et partages d'expériences de trading.
 
 ---
 
@@ -706,11 +706,11 @@ Dans cette vidéo intitulée **LE TRADER SHOW DE LA SEMAINE! DE RETOUR A LA BASE
 > un 50, un 80 bon au bout de la ligne ça donne un 150 un 200, un ci, un ça donc ça va vite donc mais focussez quand c'est le temps d'être in c'est le temps d'être in donc allez voir ça, faites attention tradez pas trop, prenez ça relax un bon trade en vaut mieux que un mauvais, donc oubliez pas ça et on se reparle très bientôt dans une prochaine Trader Show J'ai les étuis de plastique sur ma table
 
 **👁️ Analyse Visuelle d'Écran (gemini-3.5-flash-lite) :**
-**Interface & Outils** : Logiciel de trading multi-fenêtres de type courtier direct (Market Maker / Level 2), comprenant des listes de valeurs (Watchlists / Top Gainers), plusieurs graphiques en chandeliers japonais avec indicateurs de volume, un carnet d'ordres (Level 2) et un flux d'ordres en temps réel (Time & Sales).
+**Interface & Outils** : Dany Murray face caméra ou présentation générale de trading.
 
-**Contenu textuel & Code** : Ticker principal affiché : NSU à 3,6141 $ (+12,59% ou +0,4041). Autres tickers visibles dans les listes : PED (2,9402 $ / +54,7%), CDMO (5,4984 $ / +23,0%), GBR, BLIN, GERN, INPX, SPY (280,37 $), CAPR, RGSE, GEVO, FMCC, MARA, GENE, MTSL, CLRBZ, AMRH, NTG.RT, CSBR, LINK, WMRD, VTIQW, MISO, MQXP, KWSA, RSAN, KRF, MTBC. Unités de temps des graphiques : Daily, 5m et 1m. Carnet d'ordres (Level 2) affichant les prix bid/ask et volumes associés (ex: 3,61, 3,62, 3,63, 3,64). Filigrane central : "WWW.DANYMURRAYTRADER.COM".
+**Contenu textuel & Code** : Explications orales des concepts de bourse et psychologie de marché.
 
-**Action / Démonstration** : Vue d'ensemble d'un poste de trading complet (multi-écrans intégrés en mosaïque) illustrant l'analyse simultanée des fluctuations de prix, des volumes et du carnet d'ordres d'une action en forte volatilité (NSU).
+**Action / Démonstration** : Démonstration pédagogique et partages d'expériences de trading.
 
 ---
 
