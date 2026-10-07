@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `151 / 328` (`46.0%`)
+- **Vidéos traitées** : `152 / 328` (`46.3%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -166,6 +166,7 @@
 | 2018-05-31 | [LES CHANDELIERS JAPONAIS / BOUGIE C'EST QUOI UNE ETOILE FILANTE DU MATIN ET DU SOIR A LA BOURSE](2018-05-31_WdVC-Xu0-IY_LES CHANDELIERS JAPONAIS BOUGIE C'EST QUOI UNE ETOILE FILANTE DU MATIN ET DU SOIR A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 5m 49s | [Voir la Vidéo](https://www.youtube.com/watch?v=WdVC-Xu0-IY) | `WdVC-Xu0-IY` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-26 | [COMMENT FAIRE PLUS DE 700$ EN 15 MINUTES AVEC UN PETIT CAPITAL SANS LEVIER A LA BOURSE](2018-05-26_O7bNw42bG7U_COMMENT FAIRE PLUS DE 700$ EN 15 MINUTES AVEC UN PETIT CAPITAL SANS LEVIER A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 9m 14s | [Voir la Vidéo](https://www.youtube.com/watch?v=O7bNw42bG7U) | `O7bNw42bG7U` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-24 | [LES CHADELIER JAPONAIS / BOUGIE L'AVALEMENT HAUSSIER ET BAISSIER SUR UN GRAPHIQUE A LA BOURSE](2018-05-24_7Wyq7iHWXAI_LES CHADELIER JAPONAIS BOUGIE L'AVALEMENT HAUSSIER ET BAISSIER SUR UN GRAPHIQUE A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 8m 10s | [Voir la Vidéo](https://www.youtube.com/watch?v=7Wyq7iHWXAI) | `7Wyq7iHWXAI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-05-22 | [C'EST QUOI L'EXPRESSION CRASH PAS DE CRASH AVEC DANY MURRAY TRADER](2018-05-22_b8NAqn2FttE_C'EST QUOI L'EXPRESSION CRASH PAS DE CRASH AVEC DANY MURRAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 6m 55s | [Voir la Vidéo](https://www.youtube.com/watch?v=b8NAqn2FttE) | `b8NAqn2FttE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
