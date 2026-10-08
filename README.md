@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `153 / 328` (`46.6%`)
+- **Vidéos traitées** : `154 / 328` (`47.0%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -168,6 +168,7 @@
 | 2018-05-24 | [LES CHADELIER JAPONAIS / BOUGIE L'AVALEMENT HAUSSIER ET BAISSIER SUR UN GRAPHIQUE A LA BOURSE](2018-05-24_7Wyq7iHWXAI_LES CHADELIER JAPONAIS BOUGIE L'AVALEMENT HAUSSIER ET BAISSIER SUR UN GRAPHIQUE A LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 8m 10s | [Voir la Vidéo](https://www.youtube.com/watch?v=7Wyq7iHWXAI) | `7Wyq7iHWXAI` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-22 | [C'EST QUOI L'EXPRESSION CRASH PAS DE CRASH AVEC DANY MURRAY TRADER](2018-05-22_b8NAqn2FttE_C'EST QUOI L'EXPRESSION CRASH PAS DE CRASH AVEC DANY MURRAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 6m 55s | [Voir la Vidéo](https://www.youtube.com/watch?v=b8NAqn2FttE) | `b8NAqn2FttE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-17 | [LES CHANDELIERS JAPONAIS C'EST QUOI UN DOJI UNE ETOILE UN PARAPLUIE UNE PIERRE TOMBALE?](2018-05-17_wrlSCCoQlyE_LES CHANDELIERS JAPONAIS C'EST QUOI UN DOJI UNE ETOILE UN PARAPLUIE UNE PIERRE TOMBALE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 6m 09s | [Voir la Vidéo](https://www.youtube.com/watch?v=wrlSCCoQlyE) | `wrlSCCoQlyE` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-05-15 | [COMMENT DEVENIR TRADER A LA BOURSE! FORMATION EN TRADING GRATUITE, APPRENEZ A TRADER AVEC MOI LIVE!](2018-05-15_MEytsB31DP4_COMMENT DEVENIR TRADER A LA BOURSE! FORMATION EN TRADING GRATUITE, APPRENEZ A TRADER AVEC MOI LIVE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 1m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=MEytsB31DP4) | `MEytsB31DP4` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
