@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `158 / 328` (`48.2%`)
+- **Vidéos traitées** : `159 / 328` (`48.5%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -173,6 +173,7 @@
 | 2018-05-12 | [REVUE DU STOCK $IMTE AVEC SES GAIN DE 1900% EN 1 SEULE JOURNÉE! SPIKE EXTREME DE L'ANNÉE!](2018-05-12_Ws-XICEoB3E_REVUE DU STOCK $IMTE AVEC SES GAIN DE 1900% EN 1 SEULE JOURNÉE! SPIKE EXTREME DE L'ANNÉE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 7m 31s | [Voir la Vidéo](https://www.youtube.com/watch?v=Ws-XICEoB3E) | `Ws-XICEoB3E` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-09 | [TOUT SUR LE SECTEUR CANNABIS / MARIJUANA INDEX ET LEUR STOCKS. SITE RECOMMANDÉ DANY MURRAY TRADER](2018-05-09_mBzzVFiASQo_TOUT SUR LE SECTEUR CANNABIS MARIJUANA INDEX ET LEUR STOCKS. SITE RECOMMANDÉ DANY MURRAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 8m 19s | [Voir la Vidéo](https://www.youtube.com/watch?v=mBzzVFiASQo) | `mBzzVFiASQo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-06 | [MÉTHODE DE MARKET MAKER LES FAUSSE BAISSE AVANT LA HAUSSE PARTIE 3 LIVE](2018-05-06_KGWK7hI5OiQ_MÉTHODE DE MARKET MAKER LES FAUSSE BAISSE AVANT LA HAUSSE PARTIE 3 LIVE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 7m 23s | [Voir la Vidéo](https://www.youtube.com/watch?v=KGWK7hI5OiQ) | `KGWK7hI5OiQ` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-05-05 | [LE GRAND GAGNANT DE MA FORMATION COMMENT PROFITER DU SECTEUR CANNABIS SUR LES OTC MARKET](2018-05-05_dnIZnsJUSog_LE GRAND GAGNANT DE MA FORMATION COMMENT PROFITER DU SECTEUR CANNABIS SUR LES OTC MARKET_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 5m 45s | [Voir la Vidéo](https://www.youtube.com/watch?v=dnIZnsJUSog) | `dnIZnsJUSog` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
