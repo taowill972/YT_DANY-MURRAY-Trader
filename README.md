@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `156 / 328` (`47.6%`)
+- **Vidéos traitées** : `157 / 328` (`47.9%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -171,6 +171,7 @@
 | 2018-05-15 | [COMMENT DEVENIR TRADER A LA BOURSE! FORMATION EN TRADING GRATUITE, APPRENEZ A TRADER AVEC MOI LIVE!](2018-05-15_MEytsB31DP4_COMMENT DEVENIR TRADER A LA BOURSE! FORMATION EN TRADING GRATUITE, APPRENEZ A TRADER AVEC MOI LIVE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 1m 20s | [Voir la Vidéo](https://www.youtube.com/watch?v=MEytsB31DP4) | `MEytsB31DP4` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-15 | [DOUBLE FOND GAP BAISSIER MAXIMISER LES GROS% DE GAIN DANS UNE JOURNÉE OU MOIN! POTN +33%](2018-05-15_PKLZOJDIZtw_DOUBLE FOND GAP BAISSIER MAXIMISER LES GROS% DE GAIN DANS UNE JOURNÉE OU MOIN! POTN +33%_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 8m 12s | [Voir la Vidéo](https://www.youtube.com/watch?v=PKLZOJDIZtw) | `PKLZOJDIZtw` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-12 | [REVUE DU STOCK $IMTE AVEC SES GAIN DE 1900% EN 1 SEULE JOURNÉE! SPIKE EXTREME DE L'ANNÉE!](2018-05-12_Ws-XICEoB3E_REVUE DU STOCK $IMTE AVEC SES GAIN DE 1900% EN 1 SEULE JOURNÉE! SPIKE EXTREME DE L'ANNÉE!_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 7m 31s | [Voir la Vidéo](https://www.youtube.com/watch?v=Ws-XICEoB3E) | `Ws-XICEoB3E` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-05-09 | [TOUT SUR LE SECTEUR CANNABIS / MARIJUANA INDEX ET LEUR STOCKS. SITE RECOMMANDÉ DANY MURRAY TRADER](2018-05-09_mBzzVFiASQo_TOUT SUR LE SECTEUR CANNABIS MARIJUANA INDEX ET LEUR STOCKS. SITE RECOMMANDÉ DANY MURRAY TRADER_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 8m 19s | [Voir la Vidéo](https://www.youtube.com/watch?v=mBzzVFiASQo) | `mBzzVFiASQo` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
