@@ -3,7 +3,7 @@
 > Base de connaissances et transcriptions intégrales mot pour mot en français (audio via `whisper-v3-large-turbo`) et descriptions visuelles chirurgicales d'écran (via `gemini-3.5-flash-lite`) des contenus de **Dany Murray Trader** sur [YouTube](https://www.youtube.com/@danymurraytrader6032) et [Twitch](https://www.twitch.tv/danymurraytrader).
 
 ## 📊 Statistiques de l'Automatisation
-- **Vidéos traitées** : `160 / 328` (`48.8%`)
+- **Vidéos traitées** : `161 / 328` (`49.1%`)
 - **Modèle Audio ASR** : `OpenAI / Faster-Whisper large-v3-turbo` (CPU int8 Contabo, 100% Verbatim Français)
 - **Modèle Vision d'écran** : `Google Gemini 3.5 Flash-Lite` (Analyse d'écran, graphiques, carnets d'ordres niveau 2)
 - **Signature des fichiers** : `by-whisper-v3-large-turbo+gemini-3.5-flash-lite`
@@ -175,6 +175,7 @@
 | 2018-05-06 | [MÉTHODE DE MARKET MAKER LES FAUSSE BAISSE AVANT LA HAUSSE PARTIE 3 LIVE](2018-05-06_KGWK7hI5OiQ_MÉTHODE DE MARKET MAKER LES FAUSSE BAISSE AVANT LA HAUSSE PARTIE 3 LIVE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 7m 23s | [Voir la Vidéo](https://www.youtube.com/watch?v=KGWK7hI5OiQ) | `KGWK7hI5OiQ` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-05 | [LE GRAND GAGNANT DE MA FORMATION COMMENT PROFITER DU SECTEUR CANNABIS SUR LES OTC MARKET](2018-05-05_dnIZnsJUSog_LE GRAND GAGNANT DE MA FORMATION COMMENT PROFITER DU SECTEUR CANNABIS SUR LES OTC MARKET_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 5m 45s | [Voir la Vidéo](https://www.youtube.com/watch?v=dnIZnsJUSog) | `dnIZnsJUSog` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 | 2018-05-01 | [FORMATION GRATUITE : LES CHANDELIERS JAPONAIS A LA BOURSE POUR DÉBUTANT, APPRENDRE LA BOURSE](2018-05-01_5b7MMiMoaVk_FORMATION GRATUITE LES CHANDELIERS JAPONAIS A LA BOURSE POUR DÉBUTANT, APPRENDRE LA BOURSE_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 5m 00s | [Voir la Vidéo](https://www.youtube.com/watch?v=5b7MMiMoaVk) | `5b7MMiMoaVk` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
+| 2018-04-28 | [LE SECRET COMMENT TROUVER ET RECEVOIR PAR E-MAIL LES NOUVELLES QUI VOUS INTERESSE VRAIMENT](2018-04-28_xtXiL7oROx4_LE SECRET COMMENT TROUVER ET RECEVOIR PAR E-MAIL LES NOUVELLES QUI VOUS INTERESSE VRAIMENT_by-whisper-v3-large-turbo+gemini-3.5-flash-lite.md) | YouTube | 13m 41s | [Voir la Vidéo](https://www.youtube.com/watch?v=xtXiL7oROx4) | `xtXiL7oROx4` | `by-whisper-v3-large-turbo+gemini-3.5-flash-lite` |
 
 ---
 *Généré automatiquement par l'agent de veille multimodale Antigravity sur VPS Contabo.*
